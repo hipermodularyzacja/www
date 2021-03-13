@@ -106,7 +106,7 @@ Z uwagi na niszowy temat, podjęte zostaną prace nad tworzeniem stałej bazy dl
 Kurs będzie przeznaczony zarówno do osób początkujących, jak i doświadczonych programistów, którzy pragną poszerzyć swoją wiedzę związaną z tworzeniem modularnego oprogramowani.
 
 
-# Monolit, Mikroserwisy a Modularyzacja
+## Monolit, Mikroserwisy a Modularyzacja
 
 
 + Czym jest, a czym nie jest modularne oprogramowanie?
