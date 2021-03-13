@@ -73,3 +73,23 @@ Dlatego operatorzy chmur oferują szybki development ale potem aplikacja jest dr
 To nie jest roziwązanie dla szukających oszczędności, bo moudlaryzacja nie jest tania, wymaga przede wszystkim myślenia abstrakcyjnego i podejścia długofalowego. Trzeba rozróżnić wdrożenie modularyzacji w istniejącym projekcie i wykorzystanie gotowych modułów w nowym tak jak ma to miejsce w chmurze.
 
 Dlatego jednorazowe projekty można szybko stworzyć w chmurze, ale to kosztuje więcej niż tradycyjna infrastruktura, z kolei tworzenie tego we własnej organizacji wymaga grupowej synchronizacji w duchu modularyzacji a każdy ma powody by tego nie robić, dopóki nie ma ku temu odpowiednich rozwiązań. 
+
+## Cel
+
+Dla mnie modularyzacja to naturalny odruch, mam to od zawsze i dlatego wiążę z tym swoją przyszłość, chcę się tym dzielić dając długofalowa wartość na konsultacjach oraz przy wdrożeniach.
+
+Mój cel jest najpierw napisać darmowy e-book po polsku o hipermodularyzacji, potem o modularyzacji w szerszym kontekście z innymi specjalistami w tym aspekcie i następnie wersję angielską: HyperModularity .com
+
+## Biznes
+To początek drogi, dlatego potrzebna jest baza do komunikacji z klientami chcącymi wdrożyć modularyzację u siebie na wyższym poziomie.
+Uwzględniajać długofalową przewagę konkurencyjną.
+Zgodnie z misją firmy Softreck: Leadership Through Software Development
+Oraz wizją która nawiązuje do bardzo spersonalizowanego wytwarzania oprogramowania i modularyzacja jest środkiem do tego celu.
+
+
+
+Modularyzacja zawsze jest elementem projektu i trudno wydzielić modularyzację, gdyż w continuous development te etapy się zlewają w cykl wytwarzania i trudno je rozdzielić. 
+
+## Zapraszam do współpracy
+Jestem optymistą i chciałbym mieć kontakt z ludźmi krytycznymi, którzy pomogą w rozwoju tego projektu, bo pierwszy e-book będzie tylko o oprogramowaniu i to ma być zaczątkiem dyskusji.
+
