@@ -23,14 +23,15 @@ Wydzieliłem nawet biblioteki do ładowania, definicji JSON oraz do Ładowania i
 
 + jLoads() - ładowanie konkretnych url do formatu wyświetlanego w HTML bez okreslenia miejsca gdzie ma być załadowane, pliki będą tylko definiowały same zależnosci:
 
-{
-  "/form/field/text.css",
-  "/form/field/email.css",
-  "/form/field/submit.css",
-  "newsletter.html": [
-      "submit.js"
-  ]
-}
+
+      {
+        "/form/field/text.css",
+        "/form/field/email.css",
+        "/form/field/submit.css",
+        "newsletter.html": [
+            "submit.js"
+        ]
+      }
 
 + jRoutes() - pipelines (event, from, to) definicja miejsc, gdzie i co ma być z czym połączone z jLoads na HTML
 
