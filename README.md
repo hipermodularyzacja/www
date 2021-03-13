@@ -1,4 +1,6 @@
 # hipermodularyzacja.pl
+[HiperModularyzacja.pl](https://www.hipermodularyzacja.pl/)
+
 Książka HiperModularyzacja.pl
 
 Polskie wydanie, w trakcie jest też wersja angielska: HiperModularity.com
