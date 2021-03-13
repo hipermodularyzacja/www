@@ -1,11 +1,11 @@
 # hipermodularyzacja.pl
 
 Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
-+ [HiperModularyzacja.pl](https://www.hipermodularyzacja.pl/)
++ [www. Hiper Modularyzacja .pl](https://www.hipermodularyzacja.pl/)
 
 
 W trakcie jest też wersja angielska: HyperModularity.com
-+ [hypermodularity.com | www hypermodularity.com](http://www.hypermodularity.com/)
++ [www. Hyper Modularity .com](http://www.hypermodularity.com/)
 
 # Początek
 
