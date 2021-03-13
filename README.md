@@ -57,14 +57,18 @@ Każda może być używana oddzielenie w innych projektach, ale razem tworzą ma
 ### warstwa aplikacji 
 +
 
+## Modualryzacja w wielu branżach
 
 i zbieram wiedzę na ten temat, chodzi o modularyzację w wytwarzaniu oprogramowania, produkcji w przemyśle, sprzedaży, marketingu i zarządzaniu projektami i ludzmi.
  
 Przykładowe opracowanie korzyści:
 https://www.imbigs.pl/sites/default/files/pliki/tiam_1-2019_35-38.pdf
 
+Język w tym opracowaniu nie jest łatwy, bo pisał je naukowiec, dl;atego postaram się jeszcze poszerzyć to o bliskie mi tematy.
 
-tak, naukowiec, ale to nie ma znaczenia, modularyzacja to jeden z etapów na drodze do automatyzacji, ale to nie dotyczy tylko kodu aplikacji, ale całego otoczenia, definiowania celów biznesowych opartych o moduły a nie sztywne ramy bądź zbyt szerokie definicje trudne do implementacji.
+Modularyzacja to jeden z etapów na drodze do automatyzacji, ale to nie dotyczy tylko kodu aplikacji, ale całego otoczenia, definiowania celów biznesowych opartych o moduły a nie sztywne ramy bądź zbyt szerokie definicje trudne do implementacji.
+
+## modualryzacja a koszty
 
 Koszty wytwarzania aplikacji są tym wyższe im bardziej niejednorodne są moduły i trudniejsze do połączenia.
 
