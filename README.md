@@ -58,7 +58,7 @@ Każda może być używana oddzielenie w innych projektach, ale razem tworzą ma
 ### warstwa aplikacji 
 +
 
-## Modualryzacja w wielu branżach
+## Modularyzacja w wielu branżach
 
 i zbieram wiedzę na ten temat, chodzi o modularyzację w wytwarzaniu oprogramowania, produkcji w przemyśle, sprzedaży, marketingu i zarządzaniu projektami i ludzmi.
  
@@ -69,7 +69,7 @@ Język w tym opracowaniu nie jest łatwy, bo pisał je naukowiec, dl;atego posta
 
 Modularyzacja to jeden z etapów na drodze do automatyzacji, ale to nie dotyczy tylko kodu aplikacji, ale całego otoczenia, definiowania celów biznesowych opartych o moduły a nie sztywne ramy bądź zbyt szerokie definicje trudne do implementacji.
 
-## modualryzacja a koszty
+## Modularyzacja a koszty
 
 Koszty wytwarzania aplikacji są tym wyższe im bardziej niejednorodne są moduły i trudniejsze do połączenia.
 
@@ -84,6 +84,42 @@ Dlatego jednorazowe projekty można szybko stworzyć w chmurze, ale to kosztuje 
 Dla mnie modularyzacja to naturalny odruch, mam to od zawsze i dlatego wiążę z tym swoją przyszłość, chcę się tym dzielić dając długofalowa wartość na konsultacjach oraz przy wdrożeniach.
 
 Mój cel jest najpierw napisać darmowy e-book po polsku o hipermodularyzacji, potem o modularyzacji w szerszym kontekście z innymi specjalistami w tym aspekcie i następnie wersję angielską: HyperModularity .com
+
+
+
+## Jak rozmawiać o modularyzacji?
++ jakiego rodzaju oprogramowania dotyczy modualryzacja?
+
+Głównie rozwiązania szyte na miarę, gdzie jest plan i miejsce do rozwoju projektu.
+
+Czy widzisz sens mówić o tym czego nie widać?
+Modularyzacja nie musi być głównym celem projektu, ale bywa elementem projektu i trudno wydzielić modularyzację, 
+gdyż w continuous development te etapy się zlewają w cykl wytwarzania i trudno je rozdzielić. 
+
++ Gdzie i kiedy modularyzacja pomoże?
+tam, gdzie fin-y z jednej strony chcą mieć coś swojego a z drugiej boją się uwiązania do jednego dostawcy?
+
+
+właśnie po to jest modularyzacja, aby znaleźć balans pomiędzy tym co jest już wymyślone i tym co chcesz sam spiąć
+
+Modularyzacja to sposób myślenia dążący do wykorzystania -reużycia a nie uwiązania się, nic mbardziej mylnego. to chmury wiążą, one są zmodularyzwowane wewnętrznie, ale każą płacić sobie za to sporo.
+
+W przypadku praktywkowania modularyzacji, będziesz szedł własną drogą niezaleznie od dostawcy, bo twoje oprogramowanie będzie modularne, czyli możliwe do przepięcia na innego usługodawcę
+
+Chmura robi to za Ciebie, ale chce Ciebie uwiązać własnym kontekstem, językiem programowania, czy no-codem
+
++ Modularyzacja daje poczucie niezależności a nie przywiązania
+
+Dlatego uważam, że w obecnych czasach to bardzo istotne aby umieć się odnależć w tej mnogości rozwiązań a jednocześnie nie dać się uwiązać, właśnie dzięki modularyzowaniu, ubieraniu wszystkich rozwiazań w klocki pozwalając im się replikować w dowolnym środowisku i konfiguracji
+
++ Co jest rezultatem modularyzacji?
+
+Rezultattem modularyzacji nie jest wykorzystywanie konkretnego dostawcy, a odpoworność na jednolitość, budowanie naturalnej struktury, pozwalającej na natywne zarządzanie strukturą całego biznesu
+
+Chmury narzucają rozwiązania, modularyzacja otwiera Cię na nie
+
+mikroseriwsy są ewolucją i jak widać na nich ona się nie zakończyła, modularyzacja daje wybór: monolit, mikroserwis, itd
+
 
 ## Biznes
 To początek drogi, dlatego potrzebna jest baza do komunikacji z klientami chcącymi wdrożyć modularyzację u siebie na wyższym poziomie.
