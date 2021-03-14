@@ -16,6 +16,9 @@ Pomysł na książkę zrodził się w trakcie realizacji projektu jLoads, ktrór
 Biblioteka jLoads ma za zadanie załadowanie wszystkich potrzebnych mediów na stronę www.
 
 # Modularyzacja
+
+[WebStream](https://www.webstream.dev/)
+
 Po wykonaniu prototypu udało się określić strukturę biblioteki w kontekście użycia, czyli zmodularyzować.
 
 Wydzieliłem nawet biblioteki do ładowania, definicji JSON oraz do Ładowania i routowania mediów
