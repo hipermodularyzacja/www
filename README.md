@@ -16,7 +16,7 @@ Pomysł na książkę zrodził się w trakcie realizacji projektu jLoads, ktrór
 Biblioteka jLoads ma za zadanie załadowanie wszystkich potrzebnych mediów na stronę www.
 
 
-# Modularyzacja na frotnendzie
+# Modularyzacja na frontendzie
 
 Projekt obecnie nazywa się WebStream, jest zbiorem kilku modularnych funkcji, pozwalających na wykorzystanie potencjału jaki leży w protokole http
 i naturalnej predyspozycji jezyka JavaScript do prototypowania.
@@ -230,4 +230,13 @@ używanego przez programistów na całym świecie.
 Niezależnie od tego, czy zdecydujesz się (bądź nie) na zakup kursu
 
 Zachęcamy Cię do zadawania pytań oraz dyskusji na wybrane zagadnienia dotyczące kursu (i nie tylko).
+
+
+## Inne projekty powiązane
+
+### Flow
+
+https://github.com/js-func/win-ticket-version-flow
+
+https://github.com/programista-de/CycloneGenesis
 
