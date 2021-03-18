@@ -1,3 +1,7 @@
+![hipermodularyzacja](https://logo.hipermodularyzacja.pl/2/cover.png)
+
+# hypermodularity.com
+
 # hipermodularyzacja.pl
 
 Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
