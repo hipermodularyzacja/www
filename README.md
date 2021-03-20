@@ -152,3 +152,7 @@ https://github.com/js-func/win-ticket-version-flow
 
 https://github.com/programista-de/CycloneGenesis
 
+## Narzędzia
+
++ scenariusze Given-When-Then
+https://www.michalbartyzel.pl/po-co-mi-gherkin/
