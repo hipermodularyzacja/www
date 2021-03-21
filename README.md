@@ -3,8 +3,8 @@
 # [Modularyzacja przy wytwarzaniu oprogramowania](https://www.hipermodularyzacja.pl/)
 
 Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
-+ [www. Hiper Modularyzacja .pl](https://www.hipermodularyzacja.pl/)
-
++ [www. Hiper Modularyzacja .pl](https://book.hipermodularyzacja.pl/)
+  
 
 W trakcie jest też wersja angielska: HyperModularity.com
 + [www. Hyper Modularity .com](http://www.hypermodularity.com/)
