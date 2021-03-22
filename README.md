@@ -43,6 +43,12 @@ Chmury narzucają rozwiązania, modularyzacja otwiera Cię na nie
 
 mikroseriwsy są ewolucją i jak widać na nich ona się nie zakończyła, modularyzacja daje wybór: monolit, mikroserwis, itd
 
+## Jakość, czysty kod, legacy kod, re-użycie
+
+Jednym z elementów, mogących decydować o długoterminowym sukcesie jest jakość kodu.
+Tworząc szybki prototyp, możemy nie odczuć skutków na dłuższą metę. Niestety pod przykrywką
+prototypu często dostarczamy tak naprawdę MVP (Minimum Viable Product), który będziemy rozwijać.
+O czym często zapominamy, jakie błędy popełniamy i o czym powinniśmy pamiętać?
 
 
 ## Innowacja
@@ -62,6 +68,12 @@ Tak, jest nim modularyzacja, która w organizacjach nastawionych na wzrost organ
 
 
 ## [BIZNES](BIZNES.md)
+
+Konkurencja nie śpi. 
+liczy się czas wdrożenia,
+
+W czasie kryzysu utrzymanie się na rynku może być dla części wyzwaniem.
+Dostarczenie zadowalającego produktu ma tym większe znaczenie.
 
 To początek drogi, dlatego potrzebna jest baza do komunikacji z klientami chcącymi wdrożyć modularyzację u siebie na wyższym poziomie.
 Uwzględniajać długofalową przewagę konkurencyjną.
