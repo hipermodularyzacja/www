@@ -12,11 +12,19 @@ W trakcie jest też wersja angielska: HyperModularity.com
 
 ## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
 
-Modularyzacja pomaga w rozwiązywaniu problemów w oparciu o stale rosnącą bazę nowych wyspecjalizowanych rozwiązań.
+Modularyzacja pomaga w ponownym użyciu już istniejących elementów.
 
-Hipermodularyzacja pomaga w tworzeniu wyspecjalizowanych rozwiązań bazując na już istniejących.
+Hipermodularyzacja pomaga w tworzeniu wyspecjalizowanych rozwiązań tworząc kolejne wyspecjalizowane elementy systemu.
 
-Kierunkiem jest ciągłe mnożenie standaryzowanych detali, które wspierają kolejne zmodularyzowane rozwiązania.
+W architekturze modularnej kierunkiem jest ciągłe mnożenie standaryzowanych i wyspecjalizowanych detali.
+
+## Projekty IT i deadline
+
+Hipermodularyzacja ułatwia zamykanie każdego etapu projektu w skończonych ramach już na etapie koncepcyjnym i prototypowania.
+
+!!! Architektura jest skutkiem rezultatów uzyskanych w drodze poszukiwania roziwązania a nie jest rozwiązaniem samym sobie !!!
+
+Skończona ilość modułów może tworzyć skończoną ilość rozwiązań poprzez zmianę układów połączeń.
 
 
 
