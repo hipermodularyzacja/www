@@ -10,7 +10,49 @@ W trakcie jest też wersja angielska: HyperModularity.com
 + [www. Hyper Modularity .com](http://www.hypermodularity.com/)
 
 
+## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
+
+Modularyzacja pomaga w rozwiązywaniu problemów w oparciu o stale rosnącą bazę nowych wyspecjalizowanych rozwiązań.
+
+Hipermodularyzacja pomaga w tworzeniu wyspecjalizowanych rozwiązań bazując na już istniejących.
+
+Kierunkiem jest ciągłe mnożenie standaryzowanych detali, które wspierają kolejne zmodularyzowane rozwiązania.
+
+
+
+## Kreatywne tworzenie z pomocą hipermodularyzacji
+
+Kreatywność można realizować na drodze tworzenia w oparciu o już istniejące elementy bądź tworzyć dzieło za każdym razem od nowa z określonego budulca, 
+
+
+    np: lepienie nowej rzeźby z gliny a budowanie z gotowych modułów - klocków.
+
+
+Mówiąc o Hipermodularyzacji możemy wyobrazić sobie nieskończoną ilość idei z których tworzone są kolejne.
+
+W ten sposób tworzenie rozległej sieci zaawansowanych idei jest praktycznym skutkiem stosowania hipermodularyzacji.
+
+
+
+
+
+## Hipermodularyzacja - lek na perfekcjonizm
+
+
+Osoba kreatywna może brnąć w drobiazgowość lub skupiać się na całości.
+
+    Każdy element projektu jest skończony, ale tworzy nieskończoną sieć połączeń z innymi.
+
+Hipermodularyzacja pozwala na zachowanie ram każdego elementu projektu.
+Sprzyja to szybszemu i efektywniejszemu ukończeniu etapów, które na drodze perfekcjonizmu są blokowane poszukiwaniem złotego środka.
+
+Złoty środek istnieje dla każdego specyficznego punktu i zamykając go w ramach każdego wyspecjalizowanego elementu zamiast większej całości zyskujemy możliwość definiowania aktualnego stanu jako docelowego, zamiast stale poszukiwać lepszej wersji.
+
+Lepsza wersja może a nie musi powstać, ale już w ramach kolejnego projektu/elementu systemu.
+
+
 ## Jak rozmawiać o modularyzacji?
+
 + jakiego rodzaju oprogramowania dotyczy modularyzacja?
 
 Głównie rozwiązania szyte na miarę, gdzie jest plan i miejsce do rozwoju projektu.
