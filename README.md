@@ -2,6 +2,7 @@
 
 # [Modularyzacja przy wytwarzaniu oprogramowania](https://www.hipermodularyzacja.pl/)
 
+
 Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
 + [www. Hiper Modularyzacja .pl](https://book.hipermodularyzacja.pl/)
   
@@ -232,3 +233,9 @@ https://github.com/programista-de/CycloneGenesis
 
 + scenariusze Given-When-Then
 https://www.michalbartyzel.pl/po-co-mi-gherkin/
+
+
+---
++ [edit](https://github.com/hipermodularyzacja/www/edit/main/README.md)
++ [hipermodularyzacja/www](https://github.com/hipermodularyzacja/www)
++ 
