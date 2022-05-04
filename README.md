@@ -83,9 +83,8 @@ Temu służy tak samo jak przy wytwazraniu oprogramowanie wiele wzorców projekt
 Wzorzec pozwala na świadome używanie, istotna jest świadomość skutków konrketnych zdarzeń.
 Warto wobec tego używać znanych użytkownikowi wzorców.
 
-Np. każdy kto kupuje w internecie rozumie sposób działania sklepu internetowwego.
-naweet jeśli nie zna oprogramowania, to rozumie, czego oczekuje, jego celem jest wybranie towaru i zapłata za niego, po czym
-oczekuje informacji zwrotnej o przebieugu tych procesśów z platformy zakupowej.
+Np. każdy kto kupuje w internecie rozumie sposób działania sklepu internetowwego, nawet gdy nie zna platformy, to wie czego od oczekuje.
+Celem klienta jest wybranie towaru i zapłata za niego, po czym oczekuje informacji zwrotnej o przebiegu tych procesów z platformy zakupowej.
 
 
 ## Proces dostarczania w modelu SaaS
