@@ -80,8 +80,9 @@ oczekuje informacji zwrotnej o przebieugu tych procesśów z platformy zakupowej
 ## Proces dostarczania w modelu SaaS
 
 W celu zautomatyzawania biznesu możemy zastosować model SaaS, którego zadaniem jest ciągłe doskonalenie sposobie dostarczania usługi klientowi.
-Tak działa marketing online, który opiera się o AI.
 
+Tak działa marketing online, który opiera się o personalizację AI czy inne:
+[23 Software as a Service (SaaS) Examples you NEED to know in 2022](https://userguiding.com/blog/saas-examples/)
 
 
 ## Narzędzia
