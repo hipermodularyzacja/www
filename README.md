@@ -77,8 +77,14 @@ naweet jeśli nie zna oprogramowania, to rozumie, czego oczekuje, jego celem jes
 oczekuje informacji zwrotnej o przebieugu tych procesśów z platformy zakupowej.
 
 
+## Proces dostarczania w modelu SaaS
+
+W celu zautomatyzawania biznesu możemy zastosować model SaaS, którego zadaniem jest ciągłe doskonalenie sposobie dostarczania usługi klientowi.
+Tak działa marketing online, który opiera się o AI.
 
 
+
+## Narzędzia
 
 
 **Czy mamy odpowiednie narzędzia do codziennej pracy nad wieloletnim projektem?**
