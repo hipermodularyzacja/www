@@ -14,7 +14,8 @@ W trakcie jest też wersja angielska: HyperModularity.com
 ## Hipermodularyzacja? komu to potrzebne?
 
 na co dzień realizujemy projekty pod presją czasu w środowiskach, technologiach, które dopiero zgłębiamy, stale się uczymy.
-Potrzebujemy lepszych narzędzi do tworzenia.
+
+Niezależnie od tego czy jesteśmy ograniczeni koszty, czas wykonania, Potrzebujemy lepszych narzędzi do tworzenia.
 
 Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to od metodologii zależy rezultat.
 
@@ -24,9 +25,12 @@ Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to
 Jaką metodologię wytwarzania oprogramowania mamy obecnie, która pozwala samodzielnie wytwarzać setki projektów rocznie?
 ...
 
+Czy wystarczy rozumieć i znać problem i chcieć go rozwiązać?
 + Czy motywacja i determinacja są wystarczające?
 + Czy wystarczy znajomość tech-stack'a?
 + Czy wystarczy znaleźć metodę finansowania, by projekt z czasem sam się finansował?
+
+**Czy mamy odpowiednie narzędzia do codziennej pracy nad wieloletnim projektem?**
 
 
 Jest coś więcej w codziennym życiu co pozwala na zawuażenie w bliskiej i odległej przeszłości, setki lat wstecz by upewnić się, że to co wytworzone przez człowieka jest charakterystyczne dla istot zamiekszujących tę planętę poprzez samą metodologię wytwarzania.
