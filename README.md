@@ -38,15 +38,46 @@ Co do rezultatów tych projektów warto wziąć na samym starcie pod uwagę rezu
 + Czy kupującym jest konkretna osoba czy grupa zdefiniowanych użytkowników?
 + Czy kupujący potrzebuje? 
 + czy ma alternatwne metody uzyskania tego samego?
-+ Czy kupujący chce płacić,czy może zrobić to inaczej, przeznaczając więcej czasu, czy jest ograniczony:
-+ Czy kupi ten, kto jest ograniczyony zasobami:
+
+
+... Każdy z nas ma własne sposoby uzyskania podobnych rezultatów, dlatego warto w przypadku poszukiwania rozwiazania wziać pod uwagę specyfiką obecną i tą która może na skutek zmian w technologii, polityce, prawie się zmienić, jako elementy ryzyka naszej koncepcji.
+
+Mając przed sobą linię czasu warto skupić się na dostarczaniu poszczególnych funkcjonalności w ograniczonej formie, ale szerszemu gronu zainteresowanych.
+Droga dośjscia do wyspecjalizowanego narzędzia przy dostarczaniu kolejnych mniejszych i szerzej stosowanych modułów daje szansę na 
+lepsze dostosowanie narzędzi do kupujących.
+
++ Czy kupujący chce płacić, czy może zrobić to inaczej, przeznaczając więcej czasu, pieniędzy, wiedzy...
++ Czy kupujący jest ograniczony zasobami:
   + wiedzą, technologią?
   + czasem?
   + pieniędzmi?
   + lokalizacją?
   + kontaktami?
+  + zaufaniem?
 
-... Każdy z nas ma własne sposoby uzyskania podobnych rezultatów, dlatego warto w przypadku poszukiwania rozwiazania wziać pod uwagę specyfiką obecną i tą która może na skutek zmian w technologii, polityce, prawie się zmienić, jako elementy ryzyka naszej koncepcji.
+
+#### Wiedza
+
+wiedza o rozwiazaniach konkurencji,
+czy sposobu użycia narzędzia jest tutaj jedną z kluczowych
+Gdyż najlepsze narzędzie musi być proste w użyciu nawet jeśli obsługuje je profesjonalista.
+
+Warto zadbać o warstwę komunikacji UX z klientem chociażby w formie Chat, by była szansa na interakcje w ramach odstarczania usługi/produktu.
+
+Jak powyżej zarysowano sam, fakt uzyskania rezultatu nie jest wystarczający do sprzedaży 
+
+W ramach wytwarzania, dostarczania narzędzi dla innych konieczna jest znajomość sposobu użyciu przez docelowych użytkowników
+Temu służy tak samo jak przy wytwazraniu oprogramowanie wiele wzorców projektowych.
+
+Wzorzec pozwala na świadome używanie, istotna jest świadomość skutków konrketnych zdarzeń.
+Warto wobec tego używać znanych użytkownikowi wzorców.
+
+Np. każdy kto kupuje w internecie rozumie sposób działania sklepu internetowwego.
+naweet jeśli nie zna oprogramowania, to rozumie, czego oczekuje, jego celem jest wybranie towaru i zapłata za niego, po czym
+oczekuje informacji zwrotnej o przebieugu tych procesśów z platformy zakupowej.
+
+
+
 
 
 
