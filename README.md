@@ -33,6 +33,9 @@ Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
 ... Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac, by mieć chęć do nauki mimo trudności
 
 
+hipermodularyzacja jest drogą na której widzisz horyzont dzisiejszego dnia i wiesz, że kiedyś dotrzeć do oczekiwanego celu, tworząc modularne elementy krok po kroku każdego dnia
+
+
 Co do rezultatów tych projektów warto wziąć na samym starcie pod uwagę rezultaty naszej pracy nad projektem:
 + Czy wystarczy dostarczyć produkt usługę by go z zyskiem sprzedać?
 + Czy kupującym jest konkretna osoba czy grupa zdefiniowanych użytkowników?
