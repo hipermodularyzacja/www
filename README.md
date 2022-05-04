@@ -25,15 +25,35 @@ Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to
 Jaką metodologię wytwarzania oprogramowania mamy obecnie, która pozwala samodzielnie wytwarzać setki projektów rocznie?
 ...
 
-Czy wystarczy rozumieć i znać problem i chcieć go rozwiązać?
+Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
 + Czy motywacja i determinacja są wystarczające?
 + Czy wystarczy znajomość tech-stack'a?
 + Czy wystarczy znaleźć metodę finansowania, by projekt z czasem sam się finansował?
 
+... Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac
+
+
+Co do rezultatów tych projektów warto wziąć na samym starcie pod uwagę rezultaty naszej pracy nad projektem:
++ Czy wystarczy dostarczyć produkt usługę by go z zyskiem sprzedać?
++ Czy kupującym jest konkretna osoba czy grupa zdefiniowanych użytkowników?
++ Czy kupujący potrzebuje? 
++ czy ma alternatwne metody uzyskania tego samego?
++ Czy kupujący chce płacić,czy może zrobić to inaczej, przeznaczając więcej czasu, czy jest ograniczony:
++ Czy kupi ten, kto jest ograniczyony zasobami:
+  + wiedzą, technologią?
+  + czasem?
+  + pieniędzmi?
+  + lokalizacją?
+  + kontaktami?
+
+... Każdy z nas ma własne sposoby uzyskania podobnych rezultatów, dlatego warto w przypadku poszukiwania rozwiazania wziać pod uwagę specyfiką obecną i tą która może na skutek zmian w technologii, polityce, prawie się zmienić, jako elementy ryzyka naszej koncepcji.
+
+
+
 **Czy mamy odpowiednie narzędzia do codziennej pracy nad wieloletnim projektem?**
 
 
-Jest coś więcej w codziennym życiu co pozwala na zawuażenie w bliskiej i odległej przeszłości, setki lat wstecz by upewnić się, że to co wytworzone przez człowieka jest charakterystyczne dla istot zamiekszujących tę planętę poprzez samą metodologię wytwarzania.
+Jest coś więcej w codziennym życiu co pozwala na zauważenie w bliskiej i odległej przeszłości, setki lat wstecz by upewnić się, że to co wytworzone przez człowieka jest charakterystyczne dla istot zamiekszujących tę planętę poprzez samą metodologię wytwarzania.
 
 
 Jeśli sposób wytwarzania ma wpływ na jakość i żywotność rezultatu to warto przyjrzeć się narzędziom jakie używamy i metodologiom, wedle których powstają te dzieła.
