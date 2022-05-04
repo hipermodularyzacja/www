@@ -15,10 +15,13 @@ W trakcie jest też wersja angielska: HyperModularity.com
 
 na co dzień realizujemy projekty pod presją czasu w środowiskach, technologiach, które dopiero zgłębiamy, stale się uczymy.
 
-Niezależnie od tego czy jesteśmy ograniczeni koszty, czas wykonania, Potrzebujemy lepszych narzędzi do tworzenia.
+Niezależnie od tego czy jesteśmy ograniczeni kosztami, czasem, wiedzą, potrzebujemy lepszych narzędzi do tworzenia.
+
++ [PlainEdit - PoC learning tool, deployment during editing](https://www.plainedit.com/)
+
+## Kreatywność
 
 Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to od metodologii zależy rezultat.
-
 
 **Hipermodularyzacja otwiera czasoprzestrzeń** dla tych, którzy jej potrzebują na realizację projektów **poza pracą etatową.**
 
