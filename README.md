@@ -30,7 +30,7 @@ Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
 + Czy wystarczy znajomość tech-stack'a?
 + Czy wystarczy znaleźć metodę finansowania, by projekt z czasem sam się finansował?
 
-... Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac
+... Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac, by mieć chęć do nauki mimo trudności
 
 
 Co do rezultatów tych projektów warto wziąć na samym starcie pod uwagę rezultaty naszej pracy nad projektem:
