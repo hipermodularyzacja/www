@@ -11,6 +11,56 @@ W trakcie jest też wersja angielska: HyperModularity.com
 + [www. Hyper Modularity .com](http://www.hypermodularity.com/)
 
 
+## Hipermodularyzacja? komu to potrzebne?
+
+na co dzień realizujemy projekty pod presją czasu w środowiskach, technologiach, które dopiero zgłębiamy, stale się uczymy.
+Potrzebujemy lepszych narzędzi do tworzenia.
+
+Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to od metodologii zależy rezultat.
+
+
+**Hipermodularyzacja otwiera czasoprzestrzeń** dla tych, którzy jej potrzebują na realizację projektów **poza pracą etatową.**
+
+Jaką metodologię wytwarzania oprogramowania mamy obecnie, która pozwala samodzielnie wytwarzać setki projektów rocznie?
+...
+
++ Czy motywacja i determinacja są wystarczające?
++ Czy wystarczy znajomość tech-stack'a?
++ Czy wystarczy znaleźć metodę finansowania, by projekt z czasem sam się finansował?
+
+
+Jest coś więcej w codziennym życiu co pozwala na zawuażenie w bliskiej i odległej przeszłości, setki lat wstecz by upewnić się, że to co wytworzone przez człowieka jest charakterystyczne dla istot zamiekszujących tę planętę poprzez samą metodologię wytwarzania.
+
+
+Jeśli sposób wytwarzania ma wpływ na jakość i żywotność rezultatu to warto przyjrzeć się narzędziom jakie używamy i metodologiom, wedle których powstają te dzieła.
+
+Hipermodularyzacja jako sposób wytwarzania i kierunkowania kreatywności jest skupiony na detalach, rozbijaniu problemów i rozwiązań na modularne cząstki.
+
+Tak jak pył, czy atom był uważany za najmniejszą cząstkę, którą po czasie udało się też odkryć i ponazywać, tak i każdy element systemu, który rozwijamy
+krok po kroku jest odkrywany i trudno byśmy dziś zrobili plan na kolejne 10 lat nie znając przyszłości, która dla nas może nie nadejść.
+
+Jak wobec tego ukierunkować działania twórcze, by były efektywniejsze doprowadzając do lepszych jakościowo rezultatów?
+
+
+**Hipermodularyzacja jest sposobem myślenia, gdzie deklarujemy wiadome i niewiadome, skupiamy się na tym co wiemy i rozbijamy na mniejsze cząstki.**
+
+Nie skupiamy się na planie za 10 lat, tylko na technicznej i drobiazgowej analizie tgo co mamy tu i teraz przed sobą.
+Jeśli ta cząstka będzie spełniała oczekiwania w kontekście jej samej, jako samodzielnego bytu, możliwe jest jej wykorzystanie do kolejnego etapu prac.
+
+Zamiast skupiać się na tworzeniu idealnej całości, skupiamy się na dostarczeniu minimum w minimalnej skali, tak by bazując na takich małych elementach 
+dostarczyć krok po korku oczekiwany system połączonych elementów.
+
+Nie potrzebujemy przy tym w jednym momencie sprecyzować ile elementów będzie zawierał taki modularny ekosystem, nie jest to potrzebne,
+gdyż skupiamy się na jakościowym wytwarzaniau i dostarczaniu rozwiązań w mniejszej skali.
+
+Taki modularny system wzjemnie połączonych modułów, można rozbudowaywać i przebudowywać i to jest suiła tej metodoligii.
+
+Jeśli coś jest technicznie poprawnie zbudowane to drugorzędnym rezultatem tego stanu jest jego żywotność i użyteczność w konkretnym kotekście.
+
+Hipermodularyzacja to droga dojścia do celu a nie szczegółowy plan.
+rezultatyem są setkim, tysiące współpracujących ze sobą modułów jako rezultat działającego systemu.
+
+
 ## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
 
 Modularyzacja pomaga w ponownym użyciu już istniejących elementów.
@@ -18,6 +68,7 @@ Modularyzacja pomaga w ponownym użyciu już istniejących elementów.
 Hipermodularyzacja pomaga w tworzeniu wyspecjalizowanych rozwiązań tworząc kolejne wyspecjalizowane elementy systemu.
 
 W architekturze modularnej kierunkiem jest ciągłe mnożenie standaryzowanych i wyspecjalizowanych detali.
+
 
 ## Projekty IT i deadline
 
