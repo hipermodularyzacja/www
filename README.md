@@ -56,7 +56,9 @@ czyli posłużyć do użycia wieloktronie!
 
 
 
-## Jak pracować skutecznie nad projektem wiele lat pracując na etacie?
+## Jak ukończyć wieloletni projekt pracując jednocześnie na etacie?
+
+
 
 **Hipermodularyzacja otwiera czasoprzestrzeń** dla tych, którzy jej potrzebują na realizację projektów **poza pracą etatową.**
 
