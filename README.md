@@ -23,8 +23,6 @@ Niezależnie od tego czy jesteśmy ograniczeni kosztami, czasem, wiedzą, potrze
 
 Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to od metodologii zależy rezultat.
 
-**Hipermodularyzacja otwiera czasoprzestrzeń** dla tych, którzy jej potrzebują na realizację projektów **poza pracą etatową.**
-
 Jaką metodologię wytwarzania oprogramowania mamy obecnie, która pozwala samodzielnie wytwarzać setki projektów rocznie?
 ...
 
@@ -35,6 +33,32 @@ Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
 
 ... Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac, by mieć chęć do nauki mimo trudności
 
+
+## Zasoby
+
+do dyspozycji mamy ograniczone zasoby: wiedzę, kontakty-relacje, czas wolny, pieniędze, ...
+
+
+czego zapomniałem napisać a bez czego te inne nie mają znaczenia?
+
+Energia!
+
+Z fizyki wiemy, że aby wykonana była praca W potrzebna jest energia/moc P i czas.
+
+Moc P obliczmy dzieląc pracę przez czas, w którym ta praca została wykonana: P = W / t, gdzie P – to moc, W – praca, t – czas.
+
+Bez energii nawet majaąc czas nie wykonamy żadnej pracy.
+
+Kluczem jest zarządzanie w taki sposósb, by nie ograniczać posiadanej energii a prowadzić projekty tak, by rezultaty nie były porzucane, marnowane z uwagi na złe zaplanowanie.
+
+Dlatego z technicznego punktu widzenia lepiej tworzyć rozwiązania modularne, gdzie każdy moduł może być wykorzystany w różnym kontekście, 
+czyli posłużyć do użycia wieloktronie!
+
+
+
+## Jak pracować skutecznie nad projektem wiele lat pracując na etacie?
+
+**Hipermodularyzacja otwiera czasoprzestrzeń** dla tych, którzy jej potrzebują na realizację projektów **poza pracą etatową.**
 
 hipermodularyzacja jest drogą na której widzisz horyzont dzisiejszego dnia i wiesz, że kiedyś dotrzeć do oczekiwanego celu, tworząc modularne elementy krok po kroku każdego dnia
 
