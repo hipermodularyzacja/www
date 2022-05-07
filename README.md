@@ -139,11 +139,32 @@ krok po kroku jest odkrywany i trudno byśmy dziś zrobili plan na kolejne 10 la
 
 Jak wobec tego ukierunkować działania twórcze, by były efektywniejsze doprowadzając do lepszych jakościowo rezultatów?
 
+## Kontekst
 
 **Hipermodularyzacja jest sposobem myślenia, gdzie deklarujemy wiadome i niewiadome, skupiamy się na tym co wiemy i rozbijamy na mniejsze cząstki.**
 
-Nie skupiamy się na planie za 10 lat, tylko na technicznej i drobiazgowej analizie tgo co mamy tu i teraz przed sobą.
-Jeśli ta cząstka będzie spełniała oczekiwania w kontekście jej samej, jako samodzielnego bytu, możliwe jest jej wykorzystanie do kolejnego etapu prac.
+Myślenie w kontekście jest motorem napędowym.
+Nie wiemy jak zostanie coś wykonane, ale wiemy, że musimy w kontekście aktualnej sytuacji dostarczyć brakującą cegiełkię do powstającej budowli,
+czyli w kontekście powstającego projektu dostarczamy moduł.
+
+Dlaczego kontekst jest tak istotny?
+To on stawia oczekiwania i daje informację o oczekiwaniach.
+
+### Przykład kontekstu budowania budynku
+
+Na przykładzie budynku kontekstem jest plac budowy na którym się znajdujemy,
++ widzimy jaki jest stan i etap budowy 
++ znamy infrastrukturę otoczenia
++ znamy pogodę, temperaturę, wilgotność
++ wiemy z planu budowy czego oczekujemy i rozumiemy jakich etapów nie przeskoczymy, co trzeba zrobić w kolejnym etapie
+
+Jak widać, nie skupiamy się na planie za 10 lat, tylko na technicznej i drobiazgowej analizie tgo co mamy tu i teraz przed sobą.
+
+### Dostarczenie modułu, dziś!
+
+Czy to trudne stworzenie modułu, pojedynczego elementu na dziś?
+w ciągu kilku godzin?
+Jeśli mamy informację o kontekście to możemy zrobić mały krok do przodu.
 
 Zamiast skupiać się na tworzeniu idealnej całości, skupiamy się na dostarczeniu minimum w minimalnej skali, tak by bazując na takich małych elementach 
 dostarczyć krok po korku oczekiwany system połączonych elementów.
@@ -153,13 +174,17 @@ gdyż skupiamy się na jakościowym wytwarzaniau i dostarczaniu rozwiązań w mn
 
 Taki modularny system wzjemnie połączonych modułów, można rozbudowaywać i przebudowywać i to jest suiła tej metodoligii.
 
+### Kształt/Obraz modułu
+
 Jeśli coś jest technicznie poprawnie zbudowane to drugorzędnym rezultatem tego stanu jest jego żywotność i użyteczność w konkretnym kotekście.
 
-Hipermodularyzacja to droga dojścia do celu a nie szczegółowy plan.
-rezultatyem są setkim, tysiące współpracujących ze sobą modułów jako rezultat działającego systemu.
+Jeśli ta cząstka będzie spełniała oczekiwania w kontekście jej samej, jako samodzielnego bytu, możliwe jest jej wykorzystanie do kolejnego etapu prac.
+
 
 
 ## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
+
+Hipermodularyzacja to droga dojścia do celu a nie szczegółowy plan arezultatyem są setkim, tysiące współpracujących ze sobą modułów jako rezultat działającego systemu.
 
 Modularyzacja pomaga w ponownym użyciu już istniejących elementów.
 
