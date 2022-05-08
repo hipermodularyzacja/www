@@ -13,7 +13,15 @@ W trakcie jest też wersja angielska: HyperModularity.com
 
 ## Hipermodularyzacja? komu to potrzebne?
 
-na co dzień realizujemy projekty pod presją czasu w środowiskach, technologiach, które dopiero zgłębiamy, stale się uczymy.
+Gdy w codziennej pracy stawiasz sobie poniższe pytania to zapraszam do lektury:
+
++ Jak wykorzystać kontekst presji w powstawaniu projektów IT?
++ Jak wykorzystać rywalizację w przyśpieszeniu rezultatów?
++ Jak rozumieć kontekst czasu i planowania na dekadę?
++ Jak tworzyć aby używać ponownie kod i usługi już wcześniej powstałe?
++ Jak uzyskiwać dodatkowe zyski z już raz powstałego kodu?
+
+Na co dzień realizujemy projekty pod presją czasu w środowiskach, technologiach, które dopiero zgłębiamy, stale się uczymy.
 
 Niezależnie od tego czy jesteśmy ograniczeni kosztami, czasem, wiedzą, potrzebujemy lepszych narzędzi do tworzenia.
 
@@ -57,7 +65,6 @@ czyli posłużyć do użycia wieloktronie!
 
 
 ## Jak ukończyć wieloletni projekt pracując jednocześnie na etacie?
-
 
 
 **Hipermodularyzacja otwiera czasoprzestrzeń** dla tych, którzy jej potrzebują na realizację projektów **poza pracą etatową.**
@@ -194,17 +201,16 @@ Jeśli mamy informację o kontekście to możemy zrobić mały krok do przodu.
 Zamiast skupiać się na tworzeniu idealnej całości, skupiamy się na dostarczeniu minimum w minimalnej skali, tak by bazując na takich małych elementach 
 dostarczyć krok po korku oczekiwany system połączonych elementów.
 
-Nie potrzebujemy przy tym w jednym momencie sprecyzować ile elementów będzie zawierał taki modularny ekosystem, nie jest to potrzebne,
-gdyż skupiamy się na jakościowym wytwarzaniau i dostarczaniu rozwiązań w mniejszej skali.
+Nie potrzebujemy przy tym w jednym momencie precyzować ilości elementów ekosystemu, nie jest to potrzebne,
+gdyż skupiamy się na jakościowym wytwarzaniu i dostarczaniu rozwiązań w mniejszej skali.
 
-Taki modularny system wzjemnie połączonych modułów, można rozbudowaywać i przebudowywać i to jest suiła tej metodoligii.
+Taki modularny system wzajemnie połączonych modułów, można rozbudowaywać i przebudowywać i to jest suiła tej metodoligii.
 
 ### Kształt/Obraz modułu
 
-Jeśli coś jest technicznie poprawnie zbudowane to drugorzędnym rezultatem tego stanu jest jego żywotność i użyteczność w konkretnym kotekście.
+Jeśli moduł jest (od strony technicznej) poprawnie zbudowany to rezultatem jest (bądź powinna być) żywotność i użyteczność w konkretnym kotekście.
 
 Jeśli ta cząstka będzie spełniała oczekiwania w kontekście jej samej, jako samodzielnego bytu, możliwe jest jej wykorzystanie do kolejnego etapu prac.
-
 
 
 ## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
@@ -220,11 +226,19 @@ W architekturze modularnej kierunkiem jest ciągłe mnożenie standaryzowanych i
 
 ## Projekty IT i deadline
 
-Hipermodularyzacja ułatwia zamykanie każdego etapu projektu w skończonych ramach już na etapie koncepcyjnym i prototypowania.
+Hipermodularyzacja ułatwia zamykanie każdego etapu projektu w skończonych ramach już na etapie koncepcji i prototypu.
 
-!!! Architektura jest skutkiem rezultatów uzyskanych w drodze poszukiwania roziwązania a nie jest rozwiązaniem samym sobie !!!
+### Planowanie, Architektura
+!!! Architektura jest rezultatem poszukiwania rozwiązania problemów warstwy biznesowej a nie rozwiązaniem samym sobie !!!
 
 Skończona ilość modułów może tworzyć skończoną ilość rozwiązań poprzez zmianę układów połączeń.
+
+
+### Deadline, Presja
+
+Każdy projekt i jego etap powinien zostać ukończony w zaplanowanym terminie, co jednak zrobić, gdy tenże plan kolejny raz okazał się niewystarczająco dokładny?
+
+Pytanie jest zasadnicze i warto zweryfikować faktory brane pod uwagę przy planowaniu, wzory i szczegóły obliczeń z przykładami znajdują się na stronie [www.estymacja.pl - estymacja w projektach IT](https://www.estymacja.pl/)
 
 
 
