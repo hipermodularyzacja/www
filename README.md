@@ -4,8 +4,11 @@
 
 
 Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
-+ [www. Hiper Modularyzacja .pl](https://book.hipermodularyzacja.pl/)
-  
++ [książka: Hiper Modularyzacja](https://book.hipermodularyzacja.pl/)
+
+Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
++ [Blog: blog.HiperModularyzacja.pl](https://blog.hipermodularyzacja.pl/)
+
 
 W trakcie jest też wersja angielska: HyperModularity.com
 + [www. Hyper Modularity .com](http://www.hypermodularity.com/)
@@ -61,8 +64,13 @@ Bez energii nawet majaąc czas nie wykonamy żadnej pracy.
 Kluczem jest zarządzanie w taki sposósb, by nie ograniczać posiadanej energii a prowadzić projekty tak, by rezultaty nie były porzucane, marnowane z uwagi na złe zaplanowanie.
 
 Dlatego z technicznego punktu widzenia lepiej tworzyć rozwiązania modularne, gdzie każdy moduł może być wykorzystany w różnym kontekście, 
-czyli posłużyć do użycia wieloktronie!
+czyli posłużyć do użycia wielokrotnie!
 
+## Mapa Zasobów
+
+Tworzenie mapy zasobów jest pomocne w określaniu możliwości ekspansji
+
++ [Wardley Mapping - Growing Adaptive Organizations](https://growing-adaptive-organizations.org/article/wardley-mapping/)
 
 
 ## Jak ukończyć wieloletni projekt pracując jednocześnie na etacie?
