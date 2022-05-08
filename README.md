@@ -11,14 +11,16 @@ W trakcie jest też wersja angielska: HyperModularity.com
 + [www. Hyper Modularity .com](http://www.hypermodularity.com/)
 
 
-## Hipermodularyzacja? komu to potrzebne?
+# Hipermodularyzacja
+
+## komu to potrzebne?
 
 Gdy w codziennej pracy stawiasz sobie poniższe pytania to zapraszam do lektury:
 
 + Jak wykorzystać kontekst presji w powstawaniu projektów IT?
 + Jak wykorzystać rywalizację w przyśpieszeniu rezultatów?
 + Jak rozumieć kontekst czasu i planowania na dekadę?
-+ Jak tworzyć aby używać ponownie kod i usługi już wcześniej powstałe?
++ Jak tworzyć re-używalny kod i usługi?
 + Jak uzyskiwać dodatkowe zyski z już raz powstałego kodu?
 
 Na co dzień realizujemy projekty pod presją czasu w środowiskach, technologiach, które dopiero zgłębiamy, stale się uczymy.
