@@ -5,7 +5,10 @@
 ./BIZNES.md
 ./CECHY.md
 ./KONTEKST.md
+./MODULIT.md
 ./FRONTEND.md
+./BACKEND.md
+./DEVOPS.md
 ./PROTOTYPOWANIE.md
 ./SOFWTARE-DEV.md
 ./KURS.md

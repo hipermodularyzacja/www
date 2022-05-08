@@ -1,10 +1,26 @@
 
 ## Kontekst
 
-**Hipermodularyzacja jest sposobem myślenia, gdzie deklarujemy wiadome i niewiadome, skupiamy się na tym co wiemy i rozbijamy na mniejsze cząstki.**
 
-Myślenie w kontekście jest motorem napędowym.
-Nie wiemy jak zostanie coś wykonane, ale wiemy, że musimy w kontekście aktualnej sytuacji dostarczyć brakującą cegiełkię do powstającej budowli,
+Czym jest Hipermodularyzacja?
+
+**Hipermodularyzacja jest sposobem myślenia, gdzie deklarujemy wiadome i niewiadome, istotny jest stan faktyczny, to co wiemy
+a następnie rozbijamy te elementy na mniejsze.**
+
+Czym jest kontekst?
+
++ celem, kierunkiem, lokalizacją
++ zamysłem, planem, intencją, wiedzą zespołu
++ typ aktywności, stanem rzeczywistości, relacji
+
+Kontekst określa wektory punktów (w rzeczywistości), do których zdążamy. 
+Kontekst rysuje mapę połączeń z określeniem sił tych zależności.
+Z praktyki wiemy, że kontekst dyskusji, rozmowy, intencji nadaje inne znaczenie tym samym słowom.
+
+
+
+Myślenie w kontekście (czegoś) jest motorem napędowym.
+Nie wiemy jak coś zostanie wykonane, ale wiemy, że musimy w kontekście aktualnej sytuacji dostarczyć brakującą cegiełkę do powstającej budowli,
 czyli w kontekście powstającego projektu dostarczamy moduł.
 
 Dlaczego kontekst jest tak istotny?
@@ -26,10 +42,11 @@ gdzie klient otrzymuje dobre rozwiązanie za niższą cenę niż konkurencja.
 Niestety na rynku IT trudno o porównianie, trudno o statystyki kosztów, a cena wyjściowa to za mało.
 
 
-### Przykład kontekstu budowania budynku
+### Przykład kontekstu
 
-Na przykładzie budynku kontekstem jest plac budowy na którym się znajdujemy,
-+ widzimy jaki jest stan i etap budowy
+Na przykładzie budynku kontekstem jest plac budowy, na którym się znajdujemy
+
++ widzimy stan i etap budowy
 + znamy infrastrukturę otoczenia
 + znamy pogodę, temperaturę, wilgotność
 + wiemy z planu budowy czego oczekujemy i rozumiemy jakich etapów nie przeskoczymy, co trzeba zrobić w kolejnym etapie
@@ -38,7 +55,7 @@ Jak widać, nie skupiamy się na planie za 10 lat, tylko na technicznej i drobia
 
 Przykład budowy domu nie odzwierciedla wszystkich korzyści stosowania hipermodularyzacji, gdyż budowa domu to duże przedsięwzięcie, które trudno podzielić na etapy, gdzie jedna część będzie
 w pełni funkcjonalna w ciągu 1 czy kilku dni.
-Tym różni się projekt w architekturze monolitu i modularnych serwisów, tzw. mikroserwisów API i mikrofrontenu oraz idące za tym korzyści jak:
+Tym różni się projekt w architekturze monolitu i modularnych serwisów, tzw. mikro-serwisów API i mikro-frontenu oraz idące za tym korzyści jak:
 + reusability - możliwość ponownego wykorzystania
 +
 
