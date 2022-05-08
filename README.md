@@ -160,6 +160,15 @@ Na przykładzie budynku kontekstem jest plac budowy na którym się znajdujemy,
 
 Jak widać, nie skupiamy się na planie za 10 lat, tylko na technicznej i drobiazgowej analizie tgo co mamy tu i teraz przed sobą.
 
+Przykład budowy domu nie odzwierciedla wszystkich korzyści stosowania hipermodularyzacji, gdyż budowa domu to duże przedsięwzięcie, które trudno podzielić na etapy, gdzie jedna część będzie
+w pełni funkcjonalna w ciągu 1 czy kilku dni.
+Tym różni się projekt w architekturze monolitu i modularnych serwisów, tzw. mikroserwisów API i mikrofrontenu oraz idące za tym korzyści jak:
++ reusability - możliwość ponownego wykorzystania
++ 
+
+Trafniejsze odniesienie ze świata IT zmodularyzowanych autonomicznych modułów to budowa środków transportu.
+Samochód można zbudować z różnych dostępnych elementów i można je poprawiać 
+
 ### Dostarczenie modułu, dziś!
 
 Czy to trudne stworzenie modułu, pojedynczego elementu na dziś?
