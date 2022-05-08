@@ -1,8 +1,5 @@
 
-# Hipermodularyzacja
-
 ## Wstęp
-
 
 ### Początek
 

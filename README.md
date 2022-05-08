@@ -16,10 +16,7 @@ W trakcie jest też wersja angielska: HyperModularity.com
 
 
 
-# Hipermodularyzacja
-
 ## Wstęp
-
 
 ### Początek
 
