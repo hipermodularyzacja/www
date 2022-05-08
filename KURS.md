@@ -1,7 +1,24 @@
-# Kurs modualryzacji oprogramowania
+
+## [KURS](KURS.md)
+
+Z uwagi na niszowy temat, podjęte zostaną prace nad tworzeniem stałej bazy dla chcących zwiększyć swoje kwalifikacje w sferze modularyzacji.
+
+Kurs będzie przeznaczony zarówno do osób początkujących, jak i doświadczonych programistów, którzy pragną poszerzyć swoją wiedzę związaną z tworzeniem modularnego oprogramowani.
+
+
+Masz wątpliwości dotyczące kodu źródłowego? Chcesz sprawdzić aplikację, zanim podejmiesz decyzję o zakupie kursu?
+Nie ma problemu!
+
+Wszystko jest open source!
+
+
+Cały kod źródłowy, który zaimplementujemy wspólnie podczas kursu, jest dla Ciebie dostępny za darmo na GitHub!
+
+
 
 ## Monolit, Mikroserwisy a Modularyzacja
 
+Kurs modularyzacji oprogramowania
 
 + Czym jest, a czym nie jest modularne oprogramowanie?
 + Czy mikroserwisy to jedyna droga na tworzenie autonomicznych, modularnych aplikacji?

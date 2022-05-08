@@ -1,0 +1,14 @@
+./MENU.md
+./WSTEP.md
+./KORZYSCI.md
+./PROJEKT.md
+./BIZNES.md
+./CECHY.md
+./KONTEKST.md
+./FRONTEND.md
+./PROTOTYPOWANIE.md
+./SOFWTARE-DEV.md
+./KURS.md
+./WARSZTATY.md
+./KONTAKT.md
+./FOOT.md
