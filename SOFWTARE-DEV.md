@@ -1,6 +1,6 @@
 
 
-# Modularyzacja i domeny internetowe
+## Modularyzacja i domeny internetowe
 
 Każda z tych funkcji ma własną domenę: .com
 
@@ -13,5 +13,16 @@ Każda może być używana oddzielenie w innych projektach, ale razem tworzą ma
 
 + ładowanie definicji w zależności od użycia tego modułu w jLoads z funkcjami odpowiedzialnymi za ładowanie mediów
 
-### warstwa aplikacji
+
+### Warstwa aplikacji
++
+
+
+### Warstwa architektury
++
+
+
+
+
+### Warstwa sprzętowa
 +
