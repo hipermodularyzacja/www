@@ -20,7 +20,7 @@ Proces powstawania kolejnych modułów:
 
 Magia ciągłego podziału modułów na mniejsze sprawia, że każdy z nich jest określony w aktualnym kontekście.
 
-### Skuteczność - ponowne użycie
+### reusability - reużycie - ponowne użycie
 
 Miernikiem skuteczności modularyzacji jest reużycie.
 W momencie powstawania rozwiązania trudno określić ramy projektu i wyznaczyć mapę.
@@ -30,6 +30,8 @@ Odseparowanie jest lekiem na szukanie kompromisów, ograniczamy w ten sposób ko
 Szukamy granic, w których będzie funkcjonował samodzielnie zamiast wpasowywać go w istniejące ramy systemu
 przez co staje się karykaturą modułu a bardziej przypminać może adapter, helper, i tym podobne rozwiązania jednorazowego użytku
 zależne od większej części.
+
+### Kreatywność
 
 W modularyzacji nie ma miejsca na ograniczanie kreatywności ani na tworzenie pod-modułów zależnych od drugich bezpośrednio.
 relacje między modułami są równorzędne.
@@ -41,7 +43,7 @@ używając alternatywnych modułów.
 
 Autonomiczność jest wpisana w naturę i sposób użycia modułu.
 
-Zmiast tworzyć kompromisowe rozwiązania ograniczające twórczość możemy otworzyć się na tworzenie, które w tworzeniu oprogramowania jest tańsze
+Zamiast tworzyć kompromisowe rozwiązania ograniczające twórczość możemy otworzyć się na tworzenie, które w tworzeniu oprogramowania jest tańsze
 niż wpasowanie, kształtowanie, migracja, adaptacja, itd
 Nie nadajemy ram systemowi a modułom go tworzących.
 Dzięki temu możmy zamiast przerabiać moduł stworzyć podobny, który będzie lepiej spełniał zadanie a w kolejnym etapie
@@ -51,7 +53,8 @@ lepiej reużywalne w różnych zastosowaniach.
 
 ## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
 
-Hipermodularyzacja to droga dojścia do celu a nie szczegółowy plan arezultatyem są setkim, tysiące współpracujących ze sobą modułów jako rezultat działającego systemu.
+Hipermodularyzacja to droga dojścia do celu, a nie szczegółowy plan.
+Rezultatem są setki, tysiące współpracujących ze sobą modułów jednego lub wielu systemów.
 
 Modularyzacja pomaga w ponownym użyciu już istniejących elementów.
 
