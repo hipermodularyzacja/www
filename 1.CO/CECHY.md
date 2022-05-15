@@ -20,6 +20,21 @@ Proces powstawania kolejnych modułów:
 
 Magia ciągłego podziału modułów na mniejsze sprawia, że każdy z nich jest określony w aktualnym kontekście.
 
+
+
+## Modułowość
+Co oznacza modułowość?
+
+W inżynierii oprogramowania modułowość odnosi się do zakresu, w jakim oprogramowanie/aplikacja internetowa może zostać podzielona na mniejsze moduły. Modułowość oprogramowania wskazuje, że liczba modułów aplikacji jest w stanie obsłużyć określoną domenę biznesową.
+
+Modułowość jest skuteczna, ponieważ programiści używają gotowego kodu, co oszczędza zasoby. Ogólnie rzecz biorąc, modułowość zapewnia większe możliwości zarządzania rozwojem oprogramowania.
+Techopedia wyjaśnia modułowość
+
+Współczesne zagadnienia biznesowe stale rosną – pod względem wielkości, złożoności i popytu. Zwiększone wymagania dotyczące możliwości oprogramowania zmuszają programistów do ulepszania opracowanych systemów o nowe funkcje.
+
+Modułowość inżynierii oprogramowania umożliwia dzielenie typowych aplikacji na moduły, a także integrację z podobnymi modułami, co pomaga programistom korzystać z gotowego kodu. Moduły są podzielone ze względu na funkcjonalność, a programiści nie są zaangażowani w funkcjonalności innych modułów. Dzięki temu nowe funkcjonalności można łatwo zaprogramować w osobnych modułach.
+
+
 ### reusability - reużycie - ponowne użycie
 
 Miernikiem skuteczności modularyzacji jest reużycie.

@@ -32,7 +32,7 @@ Zespół, dokumentacja kompetencji
   + generowanie makiet wstępnych z definicją na podstawie dokumentacji
 
 
-Modularyzacja
+### Modularyzacja
 
 + Określenie moduł na mapie ekosystemu
 + Tworzenie definicji modułu

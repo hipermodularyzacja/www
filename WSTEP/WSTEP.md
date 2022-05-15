@@ -1,6 +1,7 @@
 
 ## Wstęp
 
+
 ### Początek
 
 Pomysł na książkę zrodził się w trakcie realizacji projektu jLoads, który służy modularyzacji aplikacji napisanej w JavaScript na frontendzie.
@@ -25,56 +26,6 @@ Niezależnie od tego czy jesteśmy ograniczeni kosztami, czasem, wiedzą, potrze
 
 + [PlainEdit - PoC learning tool, deployment during editing](https://www.plainedit.com/)
 
-
-### Cel Modularyzacji
-
-Dla mnie modularyzacja to naturalny odruch, chęć tworzenia, tworzenia, ale też szybki rezultat, praktyczny test.
-Dlatego powstała ta publikacja, chcę się dzielić zdobytym doświadczeniem szerzej,
-oferując długofalową wartość w konsultacjach, wdrożeniach, audytach.
-
-
-
-## Kreatywność
-
-Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to od metodyki zależy rezultat.
-
-Która metodyka wytwarzania oprogramowania pozwala wytwarzać setki projektów rocznie?
-
-...
-
-Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
-+ Czy motywacja i determinacja są wystarczające?
-+ Czy wystarczy znajomość tech-stack'a?
-+ Czy wystarczy znaleźć metodę finansowania, by projekt z czasem sam się finansował?
-
-...
-Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac, by mieć chęć do nauki mimo trudności
-
-
-## Zasoby
-
-Mamy ograniczone zasoby: wiedzę, kontakty-relacje, czas wolny, pieniędze, ...
-
-Bez czego te powyższe nie mają znaczenia?
-
-+ bez Energii!
-
-Z fizyki wiemy, że aby wykonana była praca W potrzebna jest energia/moc P i czas.
-
-Moc P obliczmy dzieląc pracę przez czas, w którym ta praca została wykonana: P = W / t, gdzie P – to moc, W – praca, t – czas.
-
-Bez energii nawet majaąc czas nie wykonamy żadnej pracy.
-
-Kluczem jest zarządzanie w taki sposósb, by nie ograniczać posiadanej energii a prowadzić projekty tak, by rezultaty nie były porzucane, marnowane z uwagi na złe zaplanowanie.
-
-Dlatego z technicznego punktu widzenia lepiej tworzyć rozwiązania modularne, gdzie każdy moduł może być wykorzystany w różnym kontekście,
-czyli posłużyć do użycia wielokrotnie!
-
-## Mapa Zasobów
-
-Tworzenie mapy zasobów jest pomocne w określaniu możliwości ekspansji
-
-+ [Wardley Mapping - Growing Adaptive Organizations](https://growing-adaptive-organizations.org/article/wardley-mapping/)
 
 
 
