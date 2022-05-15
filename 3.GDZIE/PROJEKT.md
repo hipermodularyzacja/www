@@ -14,7 +14,7 @@ Co do rezultatów tych projektów warto wziąć na samym starcie pod uwagę rezu
 + czy ma alternatywne metody uzyskania tego samego?
 
 
-... Każdy z nas ma własne sposoby uzyskania podobnych rezultatów, dlatego warto w przypadku poszukiwania rozwiazania wziać pod uwagę specyfiką obecną i tą która może na skutek zmian w technologii, polityce, prawie się zmienić, jako elementy ryzyka naszej koncepcji.
+... Każdy z nas ma własne sposoby uzyskania podobnych rezultatów, dlatego warto w przypadku poszukiwania rozwiazania wziąć pod uwagę specyfiką obecną i tą która może na skutek zmian w technologii, polityce, prawie się zmienić, jako elementy ryzyka naszej koncepcji.
 
 Mając przed sobą linię czasu warto skupić się na dostarczaniu poszczególnych funkcjonalności w ograniczonej formie, ale szerszemu gronu zainteresowanych.
 
