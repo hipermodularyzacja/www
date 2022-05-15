@@ -27,9 +27,9 @@ Dlaczego kontekst jest tak istotny?
 To on stawia oczekiwania i daje informację o oczekiwaniach.
 
 Mobilizujące konteksty do szybszego powstania rozwiązania, mogą być inne konteksty lub wszystkie razem:
-+ rywalizacja na rynku - mobilizacja do szybszych, lepszych rezultatów
-+ rywalizacja w branży - zdobycie pozycji lidera
-+ rywalizacji w jak najwyższej marży - zapobieganie marnotrawieniu zasobów
++ rywalizacja na rynku - determinuje szybsze, lepsze rezultaty
++ rywalizacja w branży - determinuje zdobycie pozycji lidera
++ rywalizacji w osiąganiu zysków - determinuje zapobieganie marnotrawieniu zasobów
 
 Charakterystyczne dla kontekstu powstawania rozwiązania są liczby, które pozwalają na ocenę sytuacji:
 + rywalizacja na rynku - zyski organizacji
@@ -57,7 +57,7 @@ Przykład budowy domu nie odzwierciedla wszystkich korzyści stosowania hipermod
 w pełni funkcjonalna w ciągu 1 czy kilku dni.
 Tym różni się projekt w architekturze monolitu i modularnych serwisów, tzw. mikro-serwisów API i mikro-frontenu oraz idące za tym korzyści jak:
 + reusability - możliwość ponownego wykorzystania
-+
+
 
 Trafniejsze odniesienie ze świata IT zmodularyzowanych autonomicznych modułów to budowa środków transportu.
 Samochód można zbudować z różnych dostępnych elementów i można je poprawiać
