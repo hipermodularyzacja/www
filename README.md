@@ -154,7 +154,7 @@ mikroseriwsy są ewolucją i jak widać na nich ona się nie zakończyła, modul
 
 
 
-## [KURS](KURS.md)
+## [KURS](WSTEP/KURS.md)
 
 Z uwagi na niszowy temat, podjęte zostaną prace nad tworzeniem stałej bazy dla chcących zwiększyć swoje kwalifikacje w sferze modularyzacji.
 
@@ -319,7 +319,6 @@ https://github.com/programista-de/CycloneGenesis
 
 
 
-
 ## Modularyzacja i Hipermodularyzacja w dostarczaniu rozwiązywań
 
 Hipermodularyzacja to droga dojścia do celu, a nie szczegółowy plan.
@@ -335,6 +334,7 @@ W architekturze modularnej kierunkiem jest ciągłe mnożenie standaryzowanych i
 ## Projekty IT i deadline
 
 Hipermodularyzacja ułatwia zamykanie każdego etapu projektu w skończonych ramach już na etapie koncepcji i prototypu.
+
 
 ### Planowanie, Architektura
 
@@ -383,17 +383,8 @@ podzielić go na kolejne moduły, tak by każda część spełniała najlepiej p
 lepiej reużywalne w różnych zastosowaniach.
 
 
-### Cechy - Modułowość
+## Cechy - Modułowość
 
-
-### Kształt/Obraz modułu
-
-Jeśli moduł jest (od strony technicznej) poprawnie zbudowany to rezultatem jest (bądź powinna być) żywotność i użyteczność w konkretnym kotekście.
-
-Jeśli ta cząstka będzie spełniała oczekiwania w kontekście jej samej, jako samodzielnego bytu, możliwe jest jej wykorzystanie do kolejnego etapu prac.
-
-
-## Modułowość
 Co oznacza modułowość?
 
 W inżynierii oprogramowania modułowość odnosi się do zakresu, w jakim oprogramowanie/aplikacja internetowa może zostać podzielona na mniejsze moduły. Modułowość oprogramowania wskazuje, że liczba modułów aplikacji jest w stanie obsłużyć określoną domenę biznesową.
@@ -404,6 +395,13 @@ Techopedia wyjaśnia modułowość
 Współczesne zagadnienia biznesowe stale rosną – pod względem wielkości, złożoności i popytu. Zwiększone wymagania dotyczące możliwości oprogramowania zmuszają programistów do ulepszania opracowanych systemów o nowe funkcje.
 
 Modułowość inżynierii oprogramowania umożliwia dzielenie typowych aplikacji na moduły, a także integrację z podobnymi modułami, co pomaga programistom korzystać z gotowego kodu. Moduły są podzielone ze względu na funkcjonalność, a programiści nie są zaangażowani w funkcjonalności innych modułów. Dzięki temu nowe funkcjonalności można łatwo zaprogramować w osobnych modułach.
+
+
+### Kształt/Obraz modułu
+
+Jeśli moduł jest (od strony technicznej) poprawnie zbudowany to rezultatem jest (bądź powinna być) żywotność i użyteczność w konkretnym kotekście.
+
+Jeśli ta cząstka będzie spełniała oczekiwania w kontekście jej samej, jako samodzielnego bytu, możliwe jest jej wykorzystanie do kolejnego etapu prac.
 
 
 ### Rozmnażanie poprzez podział
@@ -434,9 +432,7 @@ i szkoda zasobów na wyważanie już otwartych drzwi
 
 ### Cechy - Generyczność
 
-### Cechy - Natywność
-
-reusability - reużycie - ponowne użycie
+## Cechy - Ponowne użycie - reusability
 
 Miernikiem skuteczności modularyzacji jest reużycie.
 W momencie powstawania rozwiązania trudno określić ramy projektu i wyznaczyć mapę.
@@ -447,17 +443,43 @@ Szukamy granic, w których będzie funkcjonował samodzielnie zamiast wpasowywa�
 przez co staje się karykaturą modułu a bardziej przypminać może adapter, helper, i tym podobne rozwiązania jednorazowego użytku
 zależne od większej części.
 
-### Cechy - Zarządzalność
-## ARCHITEKTURA
+## Cechy - Zarządzalność
 
-służy pivot-owaniu, cyzli architekturze wertykalnej, pionowej, która jest łatwo adaptowalna,
-skupia się na stream-owaniu i transportowaniu jak najszybciej
-bez obsługi danych lokalnie a jedynie przekazywaniu ich dalej
-wówczas wązkim gardłem jest propagacja infrastruktury
-ale w lokalnych systemach jest ona ograniczone głównie sprzętem.
+## Filozofia
 
-wertykalne usługi pozwalają na synchroniczne i asynchroniczne przesyłanie danych w strumieniu bezpośrednio do klienta, bez potrzeby obsługi i konfigurowania procesów wspierających
-służących obsłudze specyficznych dla technologii procesów.
+
+### Personalizacja hipermodularyzacji
+
+Aby w pełni opisać sens hipermopdualryzacji warto posłużyć się porównaniem.
+
+### Hipermodularyzacja jako osobowość
+
+Hieprmodularyzacja pochodzi z rodziny gdzie perfekcjonizm jest normą.
+Jednak dorastała w atmosferze braku możliwości, dlatego nie mogła dać wyrazu realizacji perfekcyjnej stronie osobowości
+co by wpłynęło negatywnie na zdolność do przetrwania, z powodu kosztownego procesu uzyskania perfekcjyjnych wyników.
+Jakie rezultaty uzyskamy niekontrolując perfekcjonizmu?
+Ile może kosztować perfekcjonizm nie liczący się z naturą rzeczy i środowiska?
+
+
+### Hipermodularyzacja w praktyce
+
+Modularyzacja jako skupienie się na mniejszych elementach systemu wchodzących w większą całość
+polega na uzyskaniu większych elementów poprzez tworzenie i dobór tych mniejszych.
+
+Hipermodularyzacja skupia się na uzyskaniu możliwie największej ilości modułów,
+gdyż tak jak obrazy widziane w monitorach LCD są lepszej jakości, gdy jest więcej pixeli, czyli poszczególnych cząstek
+tak i systemy budowane w oparciu o mniejsze i lepiej wyspecjalizowane i dopasowane elementy będzie bardziej efktywny.
+
+Perfekcjonizm w Hipermodularyzacji udziela się w momencie podziału, gdy konieczna jest decyzja
+klarowna filozofia podziału z uwzględnieniem aktualnych możliwości i alternatyw.
+
+Dlatego mimo, że temat perfekcjonizmu został poruszony jako kluczowy to jest to kontrolowany perfekcjonizm,
+który kontroluje tylko sposób wyodrębniania kolejnych modułów, gdyż ta część cyklu powstawania modułów
+jest bardzo istotna z punktu szybkiej ewolucji całej sieci.
+
+
+
+
 
 ## Pryncypia
 
@@ -476,6 +498,16 @@ Modularyzacja
 
 Continuous Modularization
 Ciągła modularyzacja
+## ARCHITEKTURA
+
+służy pivot-owaniu, cyzli architekturze wertykalnej, pionowej, która jest łatwo adaptowalna,
+skupia się na stream-owaniu i transportowaniu jak najszybciej
+bez obsługi danych lokalnie a jedynie przekazywaniu ich dalej
+wówczas wązkim gardłem jest propagacja infrastruktury
+ale w lokalnych systemach jest ona ograniczone głównie sprzętem.
+
+wertykalne usługi pozwalają na synchroniczne i asynchroniczne przesyłanie danych w strumieniu bezpośrednio do klienta, bez potrzeby obsługi i konfigurowania procesów wspierających
+służących obsłudze specyficznych dla technologii procesów.
 
 ## Kontekst
 
@@ -557,7 +589,7 @@ i dopiero potem opierać o nie system,
 jeśli będzie zapotrzebowanie na inną funckjonoalość
 to zamiast dopasowywać
 tworzymy nowy moduł,
-dzięki temu mamy jeden moduł więcej, który działa w okresslonych warunkach
+dzięki temu mamy jeden moduł więcej, który działa w określonych warunkach
 i nie jesteśmy zmuszeni do ciągłego doskonalenia jednego modułu, który stale by podlegał zmianom.
 
 ### Refaktoryzować czy zlecać nowy moduł?
@@ -568,6 +600,68 @@ i wymaga dobrze zgranego zespołu, zamiast tego zlecamy na zewnątrz konkretną 
 który w przypadku błędów można poddać reklamacji autorowi.
 
 
+
+## Cechy - Perfekcjonizm
+
+
+### Perfekcyjna rodzina
+
+Perfekcjonizm narzuca sztuczne ramy na wszystko, nie bacząc na naturalne z góry wcześniej ustalone zasady i mechanizmy kierujące światem.
+Motyw i rezultaty przypominają szaleńcze metody prowadzące do destrukcji modelu, który nie jest gotowy na nienatrulaną strukturę.
+Perfekcjonizm nie liczy się z naturą otoczenia.
+Dlatego warto mieć na względzie noszone ryzyko pędem perfekcjonizmu, gdyż pełnia perfekcjonizmu ma szansę realizacji kosztem dobrobytu, swojego i otoczenia.
+
+
+### Perfekcjonizm w praktyce
+
+Perfekcjonizm wprowadzany w firmie Toyota w odniesieniu do automatyzacji w 100% nie powiódł się kilkadziesiąt lat temu
+a kilka lat temu w firmie Tesla ponownie mimo wielkiego postępu technologicznego nie udało się uzyskąc 100% automatyzacji w produkcji samochodów.
+
+Jak widać perfekcjonizm jest metodą uzyskania ekstremalnie nienaturalnych wyników, np. produkcji bez udziału człwoieka.
+Jest to trudne i dlatego trzeba charakteryzować się wysoką dozą perfekcjonizmu by uzyskliwać znacznie lepsze rezultaty
+niż są aktualnie uzyskiwane przez konkurencję.
+
+
+## Faktory
+
++ model środowiska, w którym będzie funkcjonuje system oparty o architekturę hipermodularną 
++ model architektury systemu w środowisku dla elementów w nich funkcjonujących
++ model elementu w systemie sieci modułów
+
+Istotne jest rozumienie zasad działania środowisko, dopasowanie architektury i połączeń między modułami.
+
+W warstwach wysokiego poziomu wszystko może wydawać się proste
+ale każdy element jest oparty o inną technologię.
+
+
+
+
+
+
+## Zasoby
+
+Mamy ograniczone zasoby: wiedzę, kontakty-relacje, czas wolny, pieniędze, ...
+
+Bez czego te powyższe nie mają znaczenia?
+
++ bez Energii!
+
+Z fizyki wiemy, że aby wykonana była praca W potrzebna jest energia/moc P i czas.
+
+Moc P obliczmy dzieląc pracę przez czas, w którym ta praca została wykonana: P = W / t, gdzie P – to moc, W – praca, t – czas.
+
+Bez energii nawet majaąc czas nie wykonamy żadnej pracy.
+
+Kluczem jest zarządzanie w taki sposósb, by nie ograniczać posiadanej energii a prowadzić projekty tak, by rezultaty nie były porzucane, marnowane z uwagi na złe zaplanowanie.
+
+Dlatego z technicznego punktu widzenia lepiej tworzyć rozwiązania modularne, gdzie każdy moduł może być wykorzystany w różnym kontekście,
+czyli posłużyć do użycia wielokrotnie!
+
+### Mapa Zasobów
+
+Tworzenie mapy zasobów jest pomocne w określaniu możliwości ekspansji
+
++ [Wardley Mapping - Growing Adaptive Organizations](https://growing-adaptive-organizations.org/article/wardley-mapping/)
 
 
 
@@ -585,7 +679,7 @@ dostarczyć krok po korku oczekiwany system połączonych elementów.
 Nie potrzebujemy przy tym w jednym momencie precyzować ilości elementów ekosystemu, nie jest to potrzebne,
 gdyż skupiamy się na jakościowym wytwarzaniu i dostarczaniu rozwiązań w mniejszej skali.
 
-Taki modularny system wzajemnie połączonych modułów, można rozbudowaywać i przebudowywać i to jest suiła tej metodoligii.
+Taki modularny system wzajemnie połączonych modułów, można rozbudowywać i przebudowywać i to jest siła tej metodolgii.
 
 ### kwadrans
 
@@ -593,10 +687,10 @@ Hipermodularyzacja to tworzenie pojedynczych modułów w kwadrans
 
 Jak to w praktyce wygląda?
 
-1. Tworzę projekt na github, np organizacja/nowymodul
+1. Tworzę projekt na github, np organizacja/nowy modul
 2. plik reamde.md z opisem, co chcę zrobić
 3. strukturę plików
-4. w kazdym pliku na początku piszę co ma w nim się znajodwac i jak działać
+4. w każdym pliku na początku piszę co ma w nim się znajodwać i jak działać
 5. dopisuję kod zaczynając od tego co wiem
 6. weryfikuję pisząc pojedyncze testy konkretnych funkcji
 7. tworzę kolejne iteracje ulepszajac kod, 
@@ -619,10 +713,7 @@ hipermodularyzacja oszczędza zasoby, w kontekście pracy człowieka to główni
 pivotowa architektura i reużycie dają szansę na szybszą implementację i oszczędność pracy w kolejnych implementacjach.
 
 
-## KOSZT 
-
-
-### Modularyzacja a koszty
+## KOSZT MODULARYZACJI 
 
 Koszty wytwarzania aplikacji są tym wyższe im bardziej niejednorodne są moduły i trudniejsze do połączenia.
 
@@ -633,53 +724,14 @@ To nie jest rozwązanie dla szukających oszczędności, bo modularyzacja nie je
 Dlatego jednorazowe projekty można szybko stworzyć w chmurze, ale to kosztuje więcej niż tradycyjna infrastruktura, z kolei tworzenie tego we własnej organizacji wymaga grupowej synchronizacji w duchu modularyzacji a każdy ma powody by tego nie robić, dopóki nie ma ku temu odpowiednich rozwiązań. 
 
 
+### Koszty w długiej perspektywie
 
-## Kreatywność
+Koszty te zależą nie tylko od aktualnych kosztów zatrudnienia czy energii oraz dostępności i cen podzespołów i zasobów.
 
-Kreatywność jest jak nieokiełznany żywioł, który można ukierunkować i to od metodyki zależy rezultat.
-
-Która metodyka wytwarzania oprogramowania pozwala wytwarzać setki projektów rocznie?
-
-...
-
-Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
-+ Czy motywacja i determinacja są wystarczające?
-+ Czy wystarczy znajomość tech-stack'a?
-+ Czy wystarczy znaleźć metodę finansowania, by projekt z czasem sam się finansował?
-
-...
-Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac, by mieć chęć do nauki mimo trudności
-
-
-## Hipermodularyzacja - lek na perfekcjonizm
-
-
-Osoba kreatywna może brnąć w drobiazgowość lub skupiać się na całości.
-
-    Każdy element projektu jest skończony, ale tworzy nieskończoną sieć połączeń z innymi.
-
-Hipermodularyzacja pozwala na zachowanie ram każdego elementu projektu.
-Sprzyja to szybszemu i efektywniejszemu ukończeniu etapów, które na drodze perfekcjonizmu są blokowane poszukiwaniem złotego środka.
-
-Złoty środek istnieje dla każdego specyficznego punktu i zamykając go w ramach każdego wyspecjalizowanego elementu zamiast większej całości zyskujemy możliwość definiowania aktualnego stanu jako docelowego, zamiast stale poszukiwać lepszej wersji.
-
-Lepsza wersja może a nie musi powstać, ale już w ramach kolejnego projektu/elementu systemu.
-
-
-
-
-## Kreatywne tworzenie z pomocą hipermodularyzacji
-
-Kreatywność można realizować na drodze tworzenia w oparciu o już istniejące elementy bądź tworzyć dzieło za każdym razem od nowa z określonego budulca,
-
-
-    np: lepienie nowej rzeźby z gliny a budowanie z gotowych modułów - klocków.
-
-
-Mówiąc o Hipermodularyzacji możemy wyobrazić sobie nieskończoną ilość idei z których tworzone są kolejne.
-
-W ten sposób tworzenie rozległej sieci zaawansowanych idei jest praktycznym skutkiem stosowania hipermodularyzacji.
-
+Istotne jest to jak robimy, jaką metodą
+i tutaj ograniczają nas zasoby.
+wobec tego musimy określić jakie zasoby są krytyczne,
+Następnie określić jakie dodatkowe korzyści e chcielibysmy uzyskać
 
 
 ## Kreatywność
@@ -699,7 +751,7 @@ Czy wystarczy rozumieć (znać) problem i chcieć go rozwiązać?
 Warto wziąć pod uwagę to co się lubi i co się potrafi, aby się nie męczyć nieskończonością prac, by mieć chęć do nauki mimo trudności
 
 
-## Hipermodularyzacja - lek na perfekcjonizm
+### Hipermodularyzacja - lek na perfekcjonizm
 
 
 Osoba kreatywna może brnąć w drobiazgowość lub skupiać się na całości.
@@ -716,7 +768,7 @@ Lepsza wersja może a nie musi powstać, ale już w ramach kolejnego projektu/el
 
 
 
-## Kreatywne tworzenie z pomocą hipermodularyzacji
+### Kreatywne tworzenie z pomocą hipermodularyzacji
 
 Kreatywność można realizować na drodze tworzenia w oparciu o już istniejące elementy bądź tworzyć dzieło za każdym razem od nowa z określonego budulca,
 
@@ -729,7 +781,148 @@ Mówiąc o Hipermodularyzacji możemy wyobrazić sobie nieskończoną ilość id
 W ten sposób tworzenie rozległej sieci zaawansowanych idei jest praktycznym skutkiem stosowania hipermodularyzacji.
 
 
-# [PROTOYPOWANIE](PROTOYPOWANIE.md)
+
+## Kontekst
+
+
+Czym jest Hipermodularyzacja?
+
+**Hipermodularyzacja jest sposobem myślenia, gdzie deklarujemy wiadome i niewiadome, istotny jest stan faktyczny, to co wiemy
+a następnie rozbijamy te elementy na mniejsze.**
+
+Czym jest kontekst?
+
++ celem, kierunkiem, lokalizacją
++ zamysłem, planem, intencją, wiedzą zespołu
++ typ aktywności, stanem rzeczywistości, relacji
+
+Kontekst określa wektory punktów (w rzeczywistości), do których zdążamy. 
+Kontekst rysuje mapę połączeń z określeniem sił tych zależności.
+Z praktyki wiemy, że kontekst dyskusji, rozmowy, intencji nadaje inne znaczenie tym samym słowom.
+
+
+
+Myślenie w kontekście (czegoś) jest motorem napędowym.
+Nie wiemy jak coś zostanie wykonane, ale wiemy, że musimy w kontekście aktualnej sytuacji dostarczyć brakującą cegiełkę do powstającej budowli,
+czyli w kontekście powstającego projektu dostarczamy moduł.
+
+Dlaczego kontekst jest tak istotny?
+To on stawia oczekiwania i daje informację o oczekiwaniach.
+
+Mobilizujące konteksty do szybszego powstania rozwiązania, mogą być inne konteksty lub wszystkie razem:
++ rywalizacja na rynku - determinuje szybsze, lepsze rezultaty
++ rywalizacja w branży - determinuje zdobycie pozycji lidera
++ rywalizacji w osiąganiu zysków - determinuje zapobieganie marnotrawieniu zasobów
+
+Charakterystyczne dla kontekstu powstawania rozwiązania są liczby, które pozwalają na ocenę sytuacji:
++ rywalizacja na rynku - zyski organizacji
++ rywalizacja w branży - rozpoznawalnośći, wybór statytyscznego konsumenta
++ rywalizacji w jak najwyższej marży - procent zysku ze sprzedaży
+
+Kontekstem może być presja wysokich kosztów, do tego stopnia, że z probelmu może stać się wyróżnikiem oferty firmy,
+gdzie klient otrzymuje dobre rozwiązanie za niższą cenę niż konkurencja.
+
+Niestety na rynku IT trudno o porównianie, trudno o statystyki kosztów, a cena wyjściowa to za mało.
+
+
+### Przykład kontekstu
+
+Na przykładzie budynku kontekstem jest plac budowy, na którym się znajdujemy
+
++ widzimy stan i etap budowy
++ znamy infrastrukturę otoczenia
++ znamy pogodę, temperaturę, wilgotność
++ wiemy z planu budowy czego oczekujemy i rozumiemy jakich etapów nie przeskoczymy, co trzeba zrobić w kolejnym etapie
+
+Jak widać, nie skupiamy się na planie za 10 lat, tylko na technicznej i drobiazgowej analizie tgo co mamy tu i teraz przed sobą.
+
+Przykład budowy domu nie odzwierciedla wszystkich korzyści stosowania hipermodularyzacji, gdyż budowa domu to duże przedsięwzięcie, które trudno podzielić na etapy, gdzie jedna część będzie
+w pełni funkcjonalna w ciągu 1 czy kilku dni.
+Tym różni się projekt w architekturze monolitu i modularnych serwisów, tzw. mikro-serwisów API i mikro-frontenu oraz idące za tym korzyści jak:
++ reusability - możliwość ponownego wykorzystania
+
+
+Trafniejsze odniesienie ze świata IT zmodularyzowanych autonomicznych modułów to budowa środków transportu.
+Samochód można zbudować z różnych dostępnych elementów i można je poprawiać
+
+
+
+## Pułapki kontekstu
+
+Gdy tworzymy w architekturze modularnej, tworzymy generyczne moduły
+
+Na początku projekt może trwać latami, ale korzyścią jest brak kontekstu w przypadku skupieniu na modułach.
+To wyzbycie się kontekstu w przypadku budowania systemu daje większą reużywalność
+Gdybyśmy wszystkie klasy, funkcje budowali w kontekście niegenerycznej całośći
+każda część nie będzie mogła funkcjonować samodzielnie, gdyż beðzie logiczną częścia całego systemu
+
+Dlatego dla dobra efektu końcowego jakim ma być reużycie modułów warto najpierw budowałąc moduły
+aby były wyspecjalizowane
+i dopiero potem opierać o nie system,
+jeśli będzie zapotrzebowanie na inną funckjonoalość
+to zamiast dopasowywać
+tworzymy nowy moduł,
+dzięki temu mamy jeden moduł więcej, który działa w określonych warunkach
+i nie jesteśmy zmuszeni do ciągłego doskonalenia jednego modułu, który stale by podlegał zmianom.
+
+### Refaktoryzować czy zlecać nowy moduł?
+
+W branży IT opłaca się znacznie bardziej tworzenie na nowo niż przerabianie, refaktoryzacja kodu, gdyż ona wymaga głebszego zrozumienia
+nie tylko przeznaczsenia ale też aktualnej implementacji, co generuje większsze koszty
+i wymaga dobrze zgranego zespołu, zamiast tego zlecamy na zewnątrz konkretną funkcjonalność i zapoominamy o problemeach refaktoringu
+który w przypadku błędów można poddać reklamacji autorowi.
+
+
+## Strategia
+
+W zalezności od przyjętej strategi zostają przyjęte luib nie zasady prowadzenia codziennych zadań
+oraz główny cel jaki długofalowo chcemy osiągnąć, w skórcie określamy specyfikę uzyskiwania długofalowaych rezultatwó
+co nazywamy strategią.
+
+W takiej wielomiesięcznej czy wieloletniej perspektywie możemy określić preferencje
+które pozwolą na szybsze uzyskanie oczekiwanego rezultatu.
+
+Może to być strategia poszukiwania słabych punktów biznesu od strony:
++ bezpieczeństwa
++ marży,
++ konkurencyjności
+
+Perzy wytwarzaniu oprgoramowania liczy się  zdolność do szybiekgo adaptowania do potrzeb biznesowych
+co sprowadza się do efektywnego czyli najniższym kosztem dostarczenia technicznego rozwiazania.
+
+
+### Jakie korzyci daje długofaowa astrategia hipermodularyzacji?
+
+Korzystanie z już wytworzonych modułów
+
+poprzez korzystanie z natywnych i jak jak szczupelyjszych zależności można ułatwić łączenie rozwiazań
+krtóre beda w przyszłości opeirały się o inne rozwiażania, technologie, jezyki programowania,
+gdzie nawet można wziąć pod uwagę translację z jedno na drugi jezyk
+
+
+
+## [PROTOYPOWANIE](PROTOYPOWANIE.md)
+
+
+## hiperprogramowanie
+
+W hiperprogramowaniu korzyściami jest obszerna i dopasowana biblioteka modułów.
+
+można znaleźć i dopasować, kształtować te już istniejące, lub szukać lepszych.
+
+Jeśli koszty pracy są niskie to można poświęcić czas na tworzenie własnych rozwiazań
+w innej sytuacji łatwiej zdobyć już otwarto źródłowe rozwiazania lub zlecić wykonanie,
+wówczas trzeba umieć sprecyzować oczekiwania:
+
++ modele danych
++ procesy
++ środowisko
++ zależności
++ testy
++ uruchomienie
++ wdrożenie
+
+Do tego dokumentacja
 
 
 ## [BIZNES](BIZNES.md)
