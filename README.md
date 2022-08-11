@@ -16,7 +16,7 @@ W trakcie jest też wersja angielska: HyperModularity.com
 
 
 
-+ [muzyka: Hiper Modularyzacja](https://book.hipermodularyzacja.pl/tekst.html)
++ [muzyka: Hiper Modularyzacja](https://www.hipermodularyzacja.pl/tekst.html)
 
 ## Wstęp
 
