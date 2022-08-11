@@ -1,36 +1,36 @@
-Ja nie wierze,
-nie wierze, a mierze.
-Mierze daleko, szeroko, wysoko
+    Ja nie wierze,
+    nie wierze, a mierze.
+    Mierze daleko, szeroko, wysoko
 
-staję z problemem:
-oko w oko!
+    staję z problemem:
+    oko w oko!
 
-Mierzę go wzrokiem,
-wzdłuż, wszerz i bokiem
+    Mierzę go wzrokiem,
+    wzdłuż, wszerz i bokiem
 
-więc nie graj na zwłokę,
-wejdź w hiper-epokę!
-
-
-to nasza akcja,
-- modularyzacja!
-Na monolit reakcja, 
-- decentralizacja!
+    więc nie graj na zwłokę,
+    wejdź w hiper-epokę!
 
 
-Moja taktyka to modularystyka!
-automatycznie, niemonolitycznie
+    to nasza akcja,
+    - modularyzacja!
+    Na monolit reakcja, 
+    - decentralizacja!
 
-sklejasz?!
-więc... akcja!
 
-- hiper modularyzacja!
+    Moja taktyka to modularystyka!
+    automatycznie, niemonolitycznie
 
-modularyzowanie 
-- na zawołanie!
-w DSL-u pisanie
-- na one day run-ie!
+    sklejasz?!
+    więc... akcja!
 
-OneDay.run
-OneDay.run
-OneDay.run
+    - hiper modularyzacja!
+
+    modularyzowanie 
+    - na zawołanie!
+    w DSL-u pisanie
+    - na one day run-ie!
+
+    OneDay.run
+    OneDay.run
+    OneDay.run
