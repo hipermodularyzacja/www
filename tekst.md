@@ -9,23 +9,20 @@
     wzdłuż, wszerz i bokiem
 
     więc nie graj na zwłokę,
-    wejdź w hiper-epokę!    
-    więc nie graj na zwłokę,
-    wejdź w hiper-epokę!
-
-    to nasza akcja,
-    - modularyzacja!
-    Na monolit reakcja, 
-    - decentralizacja!
-
-
-    Moja taktyka to modularystyka!
-    automatycznie, niemonolitycznie
-
+    wejdź w hiper-epokę!          
+    nie koduj na zwłokę,
+    wejdź w shella powloke!
+        
     sklejasz?!
     więc... akcja!
 
     - hiper modularyzacja!
+    
+    nasza taktyka to modularystyka!
+    automatycznie, niemonolitycznie
+
+    na monolit reakcja,
+    - decentralizacja!
 
     modularyzowanie 
     - kodu zarządzanie!
