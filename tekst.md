@@ -9,8 +9,9 @@
     wzdłuż, wszerz i bokiem
 
     więc nie graj na zwłokę,
+    wejdź w hiper-epokę!    
+    więc nie graj na zwłokę,
     wejdź w hiper-epokę!
-
 
     to nasza akcja,
     - modularyzacja!
@@ -27,7 +28,7 @@
     - hiper modularyzacja!
 
     modularyzowanie 
-    - na zawołanie!
+    - kodu zarządzanie!
     w DSL-u pisanie
     - na one day run-ie!
 
