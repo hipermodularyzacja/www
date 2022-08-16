@@ -12,7 +12,7 @@
     więc nie graj na zwłokę,
     wejdź w hiper-epokę!          
     nie koduj na zwłokę,
-    wejdź w shella powloke!
+    wejdź w shella powłokę!
     
     teraz!
     
