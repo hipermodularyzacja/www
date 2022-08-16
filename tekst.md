@@ -15,15 +15,16 @@
         
     sklejasz?!
     więc... akcja!
-
+        
     - hiper modularyzacja!
     
-    nasza taktyka to modularystyka!
-    automatycznie, niemonolitycznie
-
     na monolit reakcja,
     - decentralizacja!
+    
+    automatycznie, niemonolitycznie
 
+    hiper hiper modularystzczynie 
+    
     modularyzowanie 
     - kodu zarządzanie!
     w DSL-u pisanie
