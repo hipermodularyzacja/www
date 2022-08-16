@@ -8,28 +8,29 @@
     Mierzę go wzrokiem,
     wzdłuż, wszerz i bokiem
 
+    
     więc nie graj na zwłokę,
     wejdź w hiper-epokę!          
     nie koduj na zwłokę,
     wejdź w shella powloke!
-        
-    sklejasz?!
-    więc... akcja!
-        
-    - hiper modularyzacja!
     
+    teraz!
+    
+    to nasza akcja!
+    - hiper modularyzacja!
     na monolit reakcja,
     - decentralizacja!
     
+    szybciej!
+    
     automatycznie, niemonolitycznie
-
-    hiper hiper modularystzczynie 
     
     modularyzowanie 
-    - kodu zarządzanie!
+    to kodu zarządzanie!
     w DSL-u pisanie
-    - na one day run-ie!
-
+    na one day run-ie!
+    one day run-ie!
+    
     OneDay.run
     OneDay.run
     OneDay.run
