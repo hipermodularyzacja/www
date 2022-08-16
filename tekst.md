@@ -29,8 +29,8 @@
     to kodu zarządzanie!
     w DSL-u pisanie
     na one day run-ie!
+    
     one day run-ie!
     
     OneDay.run
-    OneDay.run
-    OneDay.run
+ 
