@@ -97,6 +97,8 @@ Każdy może zamieścić tam swój kod źródłowy, więc jak cenisz swój czas,
 
 ## Modularyzacja
 
+Modularyzacja to proces dzielenia dużego systemu lub programu na mniejsze, samodzielne bloki, które mogą być łatwo zmieniane lub wymieniane bez wpływu na pozostałe elementy systemu. Modularizacja może zwiększyć produktywność, skracać czas tworzenia aplikacji i pomagać w tworzeniu bardziej elastycznych systemów.
+
 
 ### Dekady przeszłości
 
