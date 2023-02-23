@@ -75,6 +75,16 @@ aby upewnić się, ze ta oosba wie co mówi bo wykorzysdtuję wiedzę w praktyce
 
 Inaczej może okazać się, że jest tylko kolejnym mówcą, sprzedawcą marzeń.
 
+## CEL
+Mówi się, że posiadanie jasnego celu jest tak kluczowe
+
+W praktyce sam cel to trochę mało, motywacja nie starcza na dłużej, jak wytworzyć warunki do realizacji długoterminowej strategii? 
+Jak pozostać zdeterminowanym latami?
+
+Moja odpowiedź to modularyzacja rzeczywistości, łączenie rzeczy w sieć rozwojowych obiektów, nazywam to hipermodularyzacją. Nie uciekam od zadań, ale czasem nie mam czasu, chęci i poprostu przyjmuję, że z punktu strategicznego te małe problemy nie ważą na długoterminowej strategii. Zawsze dało by się szybciej, tylko nie zawsze jesteśmy dyspozycyjni.
+
+Sztuiczna inteligencja zarządzająca zmoduloaryzowaną rzeczywistością pozwoli nam osiągać cele szybciej nawet ze spora stratą czasu
+
 
 ## Kwadrans
 
