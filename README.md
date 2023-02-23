@@ -83,7 +83,7 @@ Jak pozostać zdeterminowanym latami?
 
 Moja odpowiedź to modularyzacja rzeczywistości, łączenie rzeczy w sieć rozwojowych obiektów, nazywam to hipermodularyzacją. Nie uciekam od zadań, ale czasem nie mam czasu, chęci i poprostu przyjmuję, że z punktu strategicznego te małe problemy nie ważą na długoterminowej strategii. Zawsze dało by się szybciej, tylko nie zawsze jesteśmy dyspozycyjni.
 
-Sztuiczna inteligencja zarządzająca zmoduloaryzowaną rzeczywistością pozwoli nam osiągać cele szybciej nawet ze spora stratą czasu
+Sztuczna inteligencja zarządzająca zmoduloaryzowaną rzeczywistością pozwoli nam osiągać cele szybciej nawet ze spora stratą czasu
 
 
 ## Kwadrans
