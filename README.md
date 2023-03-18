@@ -110,6 +110,25 @@ Każdy może zamieścić tam swój kod źródłowy, więc jak cenisz swój czas,
 Modularyzacja to proces dzielenia dużego systemu lub programu na mniejsze, samodzielne bloki, które mogą być łatwo zmieniane lub wymieniane bez wpływu na pozostałe elementy systemu. Modularizacja może zwiększyć produktywność, skracać czas tworzenia aplikacji i pomagać w tworzeniu bardziej elastycznych systemów.
 
 
+## Struktura
+
+rozumiem, że foldery tworzą strukturę, ale nie wiem co zrobiliśmy zamiast tego i jak to będzie wyglądało. ale spoko, poczekam, zobaczę
+
+chodzi o to by nie tworzyć zależnych od siebie bytów
+bo zależność stwarza problemy (refaktoryzacja) i ogranicza rozwój (kreatywnosć)
+
+W hiermodualryzacji jesteś wolny, jesteś kreatywny, każda myśl musi być wolna, niezlaęzna, struktura ja zabija
+
+jak robisz coś sam, to od Ciebie zależy rozgałęzienie a jeśli robisz coś w kontekście, np tworzysz kolejne pod-foldery, to musisz liczyć się ze strukturą powyżej
+
+i zawsze ktoś może zwrócić uwagę, że to do siebie nie pasuje, ze coś trzeba skasować
+a my nie kasujemy, my wyodrębniamy do kolejnego nowego bytu
+i tak w koło
+dzięki czemu możesz narobić takich stron tysiące
+i potem je rozwijać w swoim tempie
+nie dbasz o strukturę, bo ona nie jest potrzebna a tylko ogranicza Twoją kreatywnosć
+
+
 ### Dekady przeszłości
 
 Po czasie szybkiego rozwoju różnych jezyków programoweania,
