@@ -76,6 +76,7 @@ aby upewnić się, ze ta oosba wie co mówi bo wykorzysdtuję wiedzę w praktyce
 Inaczej może okazać się, że jest tylko kolejnym mówcą, sprzedawcą marzeń.
 
 ## CEL
+
 Mówi się, że posiadanie jasnego celu jest tak kluczowe
 
 W praktyce sam cel to trochę mało, motywacja nie starcza na dłużej, jak wytworzyć warunki do realizacji długoterminowej strategii? 
@@ -110,9 +111,9 @@ Każdy może zamieścić tam swój kod źródłowy, więc jak cenisz swój czas,
 Modularyzacja to proces dzielenia dużego systemu lub programu na mniejsze, samodzielne bloki, które mogą być łatwo zmieniane lub wymieniane bez wpływu na pozostałe elementy systemu. Modularizacja może zwiększyć produktywność, skracać czas tworzenia aplikacji i pomagać w tworzeniu bardziej elastycznych systemów.
 
 
-## Struktura
+## Struktura folderów a subdomeny
 
-rozumiem, że foldery tworzą strukturę, ale nie wiem co zrobiliśmy zamiast tego i jak to będzie wyglądało. ale spoko, poczekam, zobaczę
+- Dlaczego subdomeny a nie foldery tworzą strukturę?
 
 chodzi o to by nie tworzyć zależnych od siebie bytów
 bo zależność stwarza problemy (refaktoryzacja) i ogranicza rozwój (kreatywnosć)
