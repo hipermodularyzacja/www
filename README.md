@@ -14,9 +14,10 @@ Polskie wydanie, Wersja Polska: HiperModularyzacja.pl
 W trakcie jest też wersja angielska: HyperModularity.com
 + [www. Hyper Modularity .com](http://www.hypermodularity.com/)
 
-
-
 + [muzyka: Hiper Modularyzacja](https://www.hipermodularyzacja.pl/tekst.html)
+
+Metamoduły bazujące na tym:
++ [docs.metamodule.org](https://docs.metamodule.org/)
 
 ## Wstęp
 
