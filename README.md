@@ -81,8 +81,8 @@ Inaczej może okazać się, że jest tylko kolejnym mówcą, sprzedawcą marzeń
 ## CEL
 
 ```mermaid
-flowchart LR
-   informacja -- text --> wiedza -- text2 --> doświadczenie
+flowchart LR  
+  informacja -- z internetu --> wiedza -- z edukacji --> doświadczenie -- z praktyki --> E[mądrość - z podejmowania dobrych moralnie decyzji]
 ```
 informacja --> wiedza -> doświadczenie -> mądrość
 
