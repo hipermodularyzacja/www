@@ -31,6 +31,7 @@ Kolejny powstaje o modularyzacji w szerszym kontekście z innymi specjalistami w
 
 
 
+
 ## DLA KOGO JEST TA KSIĄŻKA
 
 
@@ -76,7 +77,17 @@ aby upewnić się, ze ta oosba wie co mówi bo wykorzysdtuję wiedzę w praktyce
 
 Inaczej może okazać się, że jest tylko kolejnym mówcą, sprzedawcą marzeń.
 
+
 ## CEL
+
+```mermaid
+flowchart LR
+   informacja -- text --> wiedza -- text2 --> doświadczenie
+```
+informacja --> wiedza -> doświadczenie -> mądrość
+
+informacja jest w internecie, wiedza jest z edukacji, doświadczenie z praktyki, mądrość z podejmowania dobrych (moralnie) decyzji
+
 
 Mówi się, że posiadanie jasnego celu jest tak kluczowe
 
