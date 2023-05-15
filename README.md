@@ -525,6 +525,13 @@ jest bardzo istotna z punktu szybkiej ewolucji całej sieci.
 
 
 
+## koszt
+
+Co do samego rozbijania modułu w procesie hipermodularyzacji warto brać pod uwagi koszta tego procesu 
+zakładam, że będzie tam: ilość alternatywnych modułów, koszt zasobów: czasu, energii, wdrożenia
+ale te są zależne też od samej strategii, więc trudno to ująć samymi parametrami ilościowymi
+
+
 
 
 ## Pryncypia
